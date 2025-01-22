@@ -48,11 +48,11 @@
   --callout-radius: 0;
 }
 
-.cm-strong { color: var(--color-green) }
-.cm-em { color: var(--color-cyan) }
-.cm-strong.cm-em { color: var(--color-blue) }
-.cm-strikethrough { color: var(--color-orange) }
-a.cm-underline { color: var(--color-green) }
+.cm-strong, strong { color: var(--color-green) }
+.cm-em, em { color: var(--color-cyan) }
+.cm-strong.cm-em, strong em { color: var(--color-blue) }
+.cm-strikethrough, strikethrough { color: var(--color-orange) }
+a.cm-underline, a { color: var(--color-green) }
 .cm-meta { background: rgba(var(--color-green-rgb), 0.2) }
 
 .cm-highlight { font-weight: bold }
@@ -71,4 +71,9 @@ a.cm-underline { color: var(--color-green) }
   }
   
   .callout-title { gap: 8px; }
+}
+
+.excalidraw-svg {
+  display: flex;
+  justify-content: center;
 }

@@ -5,11 +5,11 @@ Three states of matter have different properties:
 - A liquid **takes the shape of the part of the container it occupies** (usually at the lowest level), is not easily compressed and flows easily. They are arranged in an irregular pattern, and has a weak force of attraction.
 - A gas **takes the shape and volume of the container**, occupying the whole volume, can easily be compressed and flows easily. They aren't arranged, they are constantly moving in a random motion, and they have a **very weak force of attraction causing them to move far away**.
 
-![[202501220000 - Kinetic particle model of matter 2025-01-22 16.59.06.excalidraw]]
+![[202501221659 - State of matter diagrams.excalidraw]]
 
 Matter can change states.
 
-![[202501220000 - Kinetic particle model of matter 2025-01-22 16.32.52.excalidraw]]
+![[202501221632 - Changing the state of matter.excalidraw]]
 ### What exactly is matter?
 Matter is a substance that makes up all physical objects, it has weight and space.
 ## Brownian motion
