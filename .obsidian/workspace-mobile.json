@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "9ea6cc515483a474",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b1e2592bbffe5ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "178e12e9ab785522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202501220000 - Kinetic particle model of matter"
+            }
+          },
+          {
+            "id": "adc06ca760ab3397",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter 2025-01-22 16.32.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202501220000 - Kinetic particle model of matter 2025-01-22 16.32.52.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0be1d28a081c1787",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f9940bb144083a3f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d4e8bcc508926eab",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0ee49aae3a95e007",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "28ed20bfa52a35cc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "f1e016c9cb0cae8c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c2eb60c71a47a9ae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5b1fa9ed2927cd38",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "29622d2ee3ea2517",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "514931cf4aefb1ed",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.canvas"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "b9c3463490db4520",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "178e12e9ab785522",
+  "lastOpenFiles": [
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter 2025-01-22 16.32.52.excalidraw.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "03 - Fleeting/202501221206 - Kinetic particle model of matter.md",
+    "202501221206 - Kinetic particle model of matter.md",
+    "/03 - Fleeting/202501221206 - Kinetic particle model of matter.md",
+    "/01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "/01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
+    "Untitled.canvas",
+    "99 - Meta/Templates/(TEMPLATE) New note.md",
+    "99 - Meta/Templates",
+    "99 - Meta",
+    "03 - Fleeting/202501221038 - Exothermic and endothermic reactions.md",
+    "03 - Fleeting",
+    "99 - Meta/Attachments/Speed-time graph.svg",
+    "99 - Meta/Attachments/Pasted image 20250122110519.webp",
+    "99 - Meta/Attachments/Distance-time graph.svg",
+    "99 - Meta/Attachments/202501221038 - Exothermic and endothermic reactions-20250122110806615.webp",
+    "99 - Meta/Attachments",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Physical quantities and measurement techniques.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
+    "01 - Areas/02 - Physics/Key Terms/acceleration.md",
+    "01 - Areas/02 - Physics/Key Terms/speed-time graph.md",
+    "01 - Areas/02 - Physics/Key Terms/weight.md",
+    "01 - Areas/02 - Physics/Key Terms/gravitational field strength.md",
+    "01 - Areas/02 - Physics/Key Terms/principle of conservation of energy.md",
+    "01 - Areas/02 - Physics/Key Terms/mass.md",
+    "01 - Areas/02 - Physics/Key Terms/oscillation.md",
+    "01 - Areas/02 - Physics/Key Terms/distance-time graph.md",
+    "01 - Areas/02 - Physics/Key Terms/deceleration.md",
+    "01 - Areas/02 - Physics/Key Terms/period.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy",
+    "01 - Areas/02 - Physics/01 - Thermal physics",
+    "01 - Areas/02 - Physics/Key Terms",
+    "01 - Areas/02 - Physics",
+    "01 - Areas",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions"
+  ]
+}

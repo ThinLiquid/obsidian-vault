@@ -6,3 +6,4 @@ Three states of matter have different properties:
 - A gas takes the shape and volume of the container, occupying the whole volume, can easily be compressed and flows easily.
 
 Matter can change states.
+![[202501220000 - Kinetic particle model of matter 2025-01-22 16.32.52.excalidraw]]

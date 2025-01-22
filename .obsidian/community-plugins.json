@@ -4,13 +4,11 @@
   "image-converter",
   "emoji-shortcodes",
   "highlightr-plugin",
-  "obsidian-excalidraw-plugin",
   "slash-commander",
   "obsidian-icon-folder",
   "templater-obsidian",
   "omnisearch",
   "open-vscode",
   "obsidian-git",
-  "settings-search",
-  "obsidian-completr"
+  "obsidian-excalidraw-plugin"
 ]
