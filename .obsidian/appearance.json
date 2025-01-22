@@ -1,0 +1,15 @@
+{
+  "interfaceFontFamily": "Iosevka Nerd Font",
+  "monospaceFontFamily": "IosevkaTerm Nerd Font Mono",
+  "textFontFamily": "Alte Haas Grotesk",
+  "nativeMenus": false,
+  "accentColor": "",
+  "baseFontSizeAction": false,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "cssTheme": "Vanilla AMOLED",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ],
+  "showViewHeader": true
+}

@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202501220000 - Kinetic particle model of matter"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fa23c93fef3f121",
+    "type": "split",
+    "children": [
+      {
+        "id": "7beeaac5abdef103",
+        "type": "tabs",
+        "dimension": 72.18591140159768,
+        "children": [
+          {
+            "id": "5d4669a5803d0c8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dd2d26c4be240688",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "769296cb993d83f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "38cc9d98b5fa3334",
+        "type": "tabs",
+        "dimension": 27.81408859840233,
+        "children": [
+          {
+            "id": "c34f2749b4bc71da",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5026054382324
+  },
+  "right": {
+    "id": "6eb15b0e5d98e2dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97704eb5c85dfc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5573a2084cb7d1a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - Permanent/02 - Physics/01 - Thermal physics/Kinetic particle model of matter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kinetic particle model of matter"
+            }
+          },
+          {
+            "id": "afd6f86187bc6374",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "246ac985f5e50aef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "805f9d3f0a0e0745",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "021c24cfdec7accd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "08b9f54174cf03fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "open-vscode:VSCode": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "202501221206 - Kinetic particle model of matter.md",
+    "03 - Fleeting/202501221038 - Exothermic and endothermic reactions.md",
+    "01 - Areas/02 - Physics/Key Terms/acceleration.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Physical quantities and measurement techniques.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
+    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
+    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
+    "99 - Meta/Attachments/202501221038 - Exothermic and endothermic reactions-20250122110806615.webp",
+    "99 - Meta/Attachments/Distance-time graph.svg",
+    "99 - Meta/Attachments/Speed-time graph.svg",
+    "99 - Meta/Attachments/Pasted image 20250122110519.webp",
+    "00 - Projects/00 - aoiweb/aoiweb design guidelines.md",
+    "00 - Projects/00 - aoiweb",
+    "01 - Areas/01 - Chemistry/Key Terms",
+    "99 - Meta/Attachments",
+    "04 - Permanent/00 - Biology/Diseases and Immunity.md",
+    "04 - Permanent/00 - Biology/Transport in Animals.md",
+    "04 - Permanent/00 - Biology/Transport in Plants.md",
+    "04 - Permanent/03 - English/Writing Interviews.md",
+    "04 - Permanent/03 - English/Informal Letter Writing.md",
+    "99 - Meta/Templates/(TEMPLATE) New note.md",
+    "goddee.md",
+    "202501221013 - j.md",
+    "Untitled Diagram.svg",
+    "04 - Permanent/02 - Physics/00 - Motion, Forces and Energy/Untitled.md",
+    "05 - Fleeting/202501220912 - Language Analysis.md",
+    "01 - Projects/Untitled.md",
+    "Untitled.md",
+    "99 - Meta/Templates",
+    "99 - Meta",
+    "04 - Archives",
+    "03 - Fleeting",
+    "04 - Permanent",
+    "02 - Resources",
+    "01 - Areas",
+    "Academic/Physics/Pasted image 20250108125724.webp",
+    "Academic/Physics/Pasted image 20250108122238.webp",
+    "Academic/Physics/Pasted image 20250108131626.webp",
+    "Academic/Physics/Assets/Motion - distance-time graph.svg",
+    "Academic/Physics/Motion, Forces and Energy/chart.webp",
+    "Academic/Physics/Motion, Forces and Energy/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
