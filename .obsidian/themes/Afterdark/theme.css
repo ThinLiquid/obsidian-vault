@@ -1,0 +1,74 @@
+.theme-dark {
+	--color-base-00: hsl(0, 0%, 0%);
+	--color-base-05: hsl(0, 0%, 4%);
+	--color-base-10: hsl(0, 0%, 8%);
+	--color-base-20: hsl(0, 0%, 8%);
+	--color-base-25: hsl(0, 0%, 16%);
+	--color-base-30: hsl(0, 0%, 16%);
+	--color-base-35: hsl(0, 0%, 32%);
+	--color-base-40: hsl(0, 1%, 32%);
+	--color-base-50: hsl(240, 1%, 44%);
+	--color-base-60: hsl(240, 2%, 52%);
+	--color-base-70: hsl(240, 2%, 61%);
+	--color-base-100: hsl(240, 2%, 80%);
+	
+	--background-primary: var(--color-base-00);
+	--background-secondary: var(--color-base-05);
+	--titlebar-background: var(--color-base-00);
+	--titlebar-background-focused: var(--color-base-10);
+  
+  --color-red-rgb: 226, 44, 60;
+  --color-orange-rgb: 238, 103, 72;
+  --color-yellow-rgb: 250, 159, 80;
+  --color-green-rgb: 82, 238, 163;
+  --color-cyan-rgb: 81, 225, 233;
+  --color-blue-rgb: 67, 124, 243;
+  --color-purple-rgb: 111, 81, 244;
+  --color-pink-rgb: 229, 79, 155;
+  
+  --color-red: rgb(var(--color-red-rgb));
+  --color-orange: rgb(var(--color-orange-rgb));
+  --color-yellow: rgb(var(--color-yellow-rgb));
+  --color-green: rgb(var(--color-green-rgb));
+  --color-cyan: rgb(var(--color-cyan-rgb));
+  --color-blue: rgb(var(--color-blue-rgb));
+  --color-purple: rgb(var(--color-purple-rgb));
+  --color-pink: rgb(var(--color-pink-rgb));
+  
+  --color-accent: var(--color-green);
+  --text-accent: var(--color-green);
+  --interactive-accent: var(--color-green);
+  --text-selection: hsla(240, 2%, 80%, 0.25);
+  --checkbox-color-hover: var(--color-green);
+  --text-highlight-bg: rgba(var(--color-green-rgb), 0.5);
+  
+  --text-on-accent: var(--color-base-00);
+  
+  --code-radius: 0;
+  --callout-radius: 0;
+}
+
+.cm-strong { color: var(--color-green) }
+.cm-em { color: var(--color-cyan) }
+.cm-strong.cm-em { color: var(--color-blue) }
+.cm-strikethrough { color: var(--color-orange) }
+a.cm-underline { color: var(--color-green) }
+.cm-meta { background: rgba(var(--color-green-rgb), 0.2) }
+
+.cm-highlight { font-weight: bold }
+
+.callout {
+  color: rgb(var(--callout-color));
+  padding: 16px 24px;
+  border: 1px solid rgba(var(--callout-color), 0.25);
+  border-left: 5px solid rgb(var(--callout-color));
+  
+  .callout-content > p {
+    margin: 0;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid rgb(var(--callout-color), 0.5);
+  }
+  
+  .callout-title { gap: 8px; }
+}
