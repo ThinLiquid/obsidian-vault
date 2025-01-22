@@ -54,6 +54,8 @@ wvw
 wvM
 wfgffg
 wn
+way
+while
 and
 an
 airplane
@@ -86,6 +88,8 @@ aj
 aPFT
 aE
 aren
+absorbed
+acid
 power
 planets
 position
@@ -132,6 +136,7 @@ pUc
 pN
 pw
 pDD
+photosynthesis
 stores
 store
 stored
@@ -197,6 +202,10 @@ smm
 sQ
 sT
 sB
+surroundings
+sodium
+simple
+system
 Store
 Some
 Sun
@@ -280,6 +289,9 @@ eY
 eZ
 emdt
 eL
+examples
+ex
+en
 in
 its
 is
@@ -305,6 +317,7 @@ iz
 ij
 iI
 iZ
+include
 moving
 molecules
 muscles
@@ -355,6 +368,7 @@ mjn
 mmmmumucc
 my
 mZ
+most
 object
 objects
 orbiting
@@ -382,6 +396,7 @@ oxx
 omn
 ouu
 om
+oxidization
 Faster
 Find
 Falling
@@ -430,6 +445,7 @@ hX
 hhh
 hcsCQ
 hBD
+hydrogen
 greater
 glowing
 graphs
@@ -544,6 +560,9 @@ cY
 cl
 constantly
 causing
+combustion
+citric
+carbonate
 the
 to
 tall
@@ -597,6 +616,8 @@ tz
 tfhks
 tc
 they
+transfer
+ters
 Gravitational
 Gases
 GV
@@ -652,6 +673,7 @@ bOWwA
 bw
 bL
 bD
+burning
 due
 distance
 does
@@ -679,6 +701,9 @@ dR
 dVu
 dzA
 dD
+decrease
+decomposition
+distinguish
 The
 Thunderclouds
 Travelled
@@ -704,6 +729,8 @@ TqlG
 TU
 TQ
 TE
+Thermal
+These
 Person
 Physical
 Particle
@@ -817,6 +844,7 @@ rD
 rO
 rk
 rNMy
+remember
 up
 unlike
 usually
@@ -872,6 +900,7 @@ nllx
 nmnr
 ns
 nnoQJ
+neutralization
 like
 line
 liquids
