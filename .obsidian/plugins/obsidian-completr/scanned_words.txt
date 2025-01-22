@@ -44,6 +44,7 @@ all
 away
 actually
 absolute
+arranged
 power
 planets
 position
@@ -117,6 +118,7 @@ substance
 space
 scale
 settings
+strong
 Store
 Some
 Sun
@@ -158,6 +160,7 @@ equation
 energies
 exothermic
 excalidraw
+exactly
 in
 its
 is
@@ -365,6 +368,7 @@ diagrams
 document
 decompress
 data
+defined
 The
 Thunderclouds
 Travelled
@@ -379,6 +383,7 @@ Tables
 Tags
 Tasks
 Task
+They
 Person
 Physical
 Particle
@@ -392,6 +397,8 @@ Cannot
 Constantly
 Can
 Celcius
+Converting
+Celsius
 food
 further
 from
