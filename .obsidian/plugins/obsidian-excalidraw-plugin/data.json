@@ -2,7 +2,7 @@
   "folder": "99 - Meta/Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
-  "embedUseExcalidrawFolder": false,
+  "embedUseExcalidrawFolder": true,
   "templateFilePath": "99 - Meta/Excalidraw/Template.excalidraw",
   "scriptFolderPath": "99 - Meta/Excalidraw/Scripts",
   "fontAssetsPath": "Excalidraw/CJK Fonts",

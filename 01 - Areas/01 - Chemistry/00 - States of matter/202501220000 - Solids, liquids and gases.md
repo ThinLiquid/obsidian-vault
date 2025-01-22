@@ -1,1 +1,2 @@
-There are three states of matter. The states of matter are solids, liquids and gases. Their symbols are (s), (l) and (g) respectively. The symbols are called **state symbols** and are usually found after the formula or symbol of an element or compound.
+# Solids, liquids and gases
+See [[states of matter]].

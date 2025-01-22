@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "./",
   "vimMode": false,
-  "livePreview": true,
+  "livePreview": false,
   "tabSize": 4,
   "showLineNumber": false,
   "rightToLeft": false,

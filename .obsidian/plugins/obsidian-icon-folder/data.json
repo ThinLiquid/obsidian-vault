@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsCookie",
       "BoBxAtom",
       "BoBxsFlask",
       "BoBxFont",
-      "BoBxMath",
-      "BoBxsVial"
+      "BoBxMath"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "01 - Areas": "BoBxsPackage",
   "02 - Resources": "BoBxsBook",
   "03 - Fleeting": "BoBxsPencil",
-  "04 - Archives": "BoBxsBox"
+  "05 - Archives": "BoBxsBox",
+  "04 - Bites": "BoBxsCookie"
 }

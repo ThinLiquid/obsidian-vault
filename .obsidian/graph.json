@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "-path:\"99 - Meta\" -path:\"05 - Archives\" -path:\"03 - Fleeting\"",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.0078125,
-  "close": true
+  "scale": 1.0570636017639143,
+  "close": false
 }

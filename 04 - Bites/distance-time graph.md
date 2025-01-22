@@ -1,4 +1,5 @@
-# Deducing motion from a distance-time graph
+# Distance-time graph 
+## Deducing motion from a distance-time graph
 | State of object                | Shape of distance-time graph        |
 | ------------------------------ | ----------------------------------- |
 | At rest                        | Horizontal line.                    |

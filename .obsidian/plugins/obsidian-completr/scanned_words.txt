@@ -20,6 +20,9 @@ EK
 Ea
 Ep
 ERW
+Enthalpy
+Easily
+Earth
 work
 when
 which
@@ -56,6 +59,7 @@ wfgffg
 wn
 way
 while
+ways
 and
 an
 airplane
@@ -90,6 +94,11 @@ aE
 aren
 absorbed
 acid
+after
+arrangement
+along
+acceleration
+acting
 power
 planets
 position
@@ -137,6 +146,9 @@ pN
 pw
 pDD
 photosynthesis
+positions
+points
+principle
 stores
 store
 stored
@@ -206,6 +218,14 @@ surroundings
 sodium
 simple
 system
+subtracted
+solids
+symbols
+state
+symbol
+see
+something
+strength
 Store
 Some
 Sun
@@ -233,6 +253,9 @@ SSS
 SQT
 SJm
 ST
+State
+Straight
+See
 Description
 Distance
 Data
@@ -260,6 +283,8 @@ Dw
 DW
 DZ
 DBi
+Deducing
+Deceleration
 Kinetic
 Kelvin
 KwC
@@ -292,6 +317,8 @@ eL
 examples
 ex
 en
+element
+equal
 in
 its
 is
@@ -369,6 +396,7 @@ mmmmumucc
 my
 mZ
 most
+means
 object
 objects
 orbiting
@@ -397,6 +425,7 @@ omn
 ouu
 om
 oxidization
+opposite
 Faster
 Find
 Falling
@@ -420,6 +449,8 @@ FgG
 FWg
 Fmzjz
 Fz
+Flows
+Force
 have
 height
 higher
@@ -470,6 +501,7 @@ gl
 gL
 ggg
 gP
+given
 kinetic
 kilograms
 kg
@@ -507,6 +539,8 @@ RYX
 RO
 Rio
 RRO
+Regular
+Related
 cars
 cuckoo
 clock
@@ -563,6 +597,14 @@ causing
 combustion
 citric
 carbonate
+compound
+changes
+curved
+cannot
+created
+cycle
+conservation
+context
 the
 to
 tall
@@ -618,6 +660,9 @@ tc
 they
 transfer
 ters
+three
+thus
+transferred
 Gravitational
 Gases
 GV
@@ -633,6 +678,7 @@ GDp
 Go
 GtM
 GT
+Gas
 by
 building
 bonds
@@ -674,6 +720,7 @@ bw
 bL
 bD
 burning
+below
 due
 distance
 does
@@ -704,6 +751,10 @@ dD
 decrease
 decomposition
 distinguish
+decreases
+destroyed
+dissipated
+deceleration
 The
 Thunderclouds
 Travelled
@@ -731,6 +782,8 @@ TQ
 TE
 Thermal
 These
+There
+Their
 Person
 Physical
 Particle
@@ -747,6 +800,8 @@ PJ
 Pp
 PT
 PF
+Properties
+Physics
 Chemical
 Calculating
 Checkboxes
@@ -770,6 +825,12 @@ Cx
 Ci
 CrI
 CDTRu
+Compressibility
+Constant
+Changing
+Chemistry
+Changes
+Curve
 food
 further
 from
@@ -802,6 +863,9 @@ fy
 fff
 fL
 fxhb
+find
+found
+field
 An
 At
 After
@@ -822,6 +886,9 @@ AowwcS
 AI
 AK
 Al
+Arrangement
+Attraction
+Acceleration
 rubber
 released
 reactions
@@ -845,6 +912,12 @@ rO
 rk
 rNMy
 remember
+respectively
+rest
+randomly
+repeated
+repetition
+rearranged
 up
 unlike
 usually
@@ -877,6 +950,7 @@ NEQ
 Nnq
 NJ
 Na
+No
 nucleus
 nuclear
 not
@@ -901,6 +975,8 @@ nmnr
 ns
 nnoQJ
 neutralization
+near
+non
 like
 line
 liquids
@@ -953,6 +1029,7 @@ IK
 ISSs
 IB
 Iu
+Irregular
 Motion
 Mass
 Making
@@ -979,6 +1056,8 @@ MO
 MsppP
 MSU
 MOO
+Moving
+Moves
 When
 What
 Write
@@ -998,6 +1077,8 @@ Wv
 WU
 WBTtM
 WDi
+Weight
+With
 value
 visualized
 values
@@ -1065,6 +1146,7 @@ HRZA
 HH
 Ha
 HP
+Horizontal
 On
 Objects
 Obsidian
@@ -1132,6 +1214,7 @@ Lsxx
 LQ
 LQs
 LC
+Liquid
 Your
 You
 Yd
@@ -1192,6 +1275,8 @@ VR
 VJ
 Vj
 VUQt
+Volume
+Vibrates
 xK
 xx
 xS
@@ -1240,3 +1325,4 @@ jr
 jV
 jx
 jE
+just

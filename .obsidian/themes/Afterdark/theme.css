@@ -1,13 +1,13 @@
 .theme-dark {
-	--color-base-00: hsl(0, 0%, 0%);
-	--color-base-05: hsl(0, 0%, 4%);
+	--color-base-00: hsl(0, 0%, 8%);
+	--color-base-05: hsl(0, 0%, 8%);
 	--color-base-10: hsl(0, 0%, 8%);
 	--color-base-20: hsl(0, 0%, 8%);
 	--color-base-25: hsl(0, 0%, 16%);
 	--color-base-30: hsl(0, 0%, 16%);
 	--color-base-35: hsl(0, 0%, 32%);
-	--color-base-40: hsl(0, 1%, 32%);
-	--color-base-50: hsl(240, 1%, 44%);
+	--color-base-40: hsl(0, 0%, 32%);
+	--color-base-50: hsl(0, 0%, 32%);
 	--color-base-60: hsl(240, 2%, 52%);
 	--color-base-70: hsl(240, 2%, 61%);
 	--color-base-100: hsl(240, 2%, 80%);
