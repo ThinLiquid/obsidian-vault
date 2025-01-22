@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "202501220000 - Kinetic particle model of matter"
             }
-          },
-          {
-            "id": "adc06ca760ab3397",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter 2025-01-22 16.32.52.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202501220000 - Kinetic particle model of matter 2025-01-22 16.32.52.excalidraw"
-            }
           }
         ]
       }
@@ -193,6 +181,7 @@
   "lastOpenFiles": [
     "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter 2025-01-22 16.32.52.excalidraw.md",
     "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter 2025-01-22 16.59.06.excalidraw.md",
     "03 - Fleeting/202501221206 - Kinetic particle model of matter.md",
     "202501221206 - Kinetic particle model of matter.md",
     "/03 - Fleeting/202501221206 - Kinetic particle model of matter.md",
@@ -230,7 +219,6 @@
     "01 - Areas/02 - Physics",
     "01 - Areas",
     "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
-    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
     "01 - Areas/01 - Chemistry/06 - Chemical reactions"
   ]
 }
