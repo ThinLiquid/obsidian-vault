@@ -8,5 +8,4 @@ On the other hand, thermal energy from the surroundings is absorbed, causing the
 
 ## Reaction pathway diagrams
 If the total energy of the reactants is larger than the products, then it's an exothermic reaction, whereas, the total chemical energy is smaller than the products making it an endothermic reaction.
-> [!todo] Reaction pathway diagram here
-
+![[202501220000 -Reaction pathway diagrams.excalidraw]]
