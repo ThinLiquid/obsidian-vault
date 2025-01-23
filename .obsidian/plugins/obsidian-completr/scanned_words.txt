@@ -581,6 +581,7 @@ aqD
 aiM
 apQjM
 aoA
+afterdark
 power
 planets
 position
@@ -3629,6 +3630,7 @@ cdg
 cwvq
 cbB
 cSUt
+comparison
 the
 to
 tall
@@ -4969,6 +4971,7 @@ Cjf
 CLe
 CCO
 Chgk
+Catppuccin
 food
 further
 from

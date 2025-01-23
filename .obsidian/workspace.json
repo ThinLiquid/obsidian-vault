@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Bites/states of matter.md",
-                "mode": "source",
+                "file": "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "states of matter"
+              "title": "202501231559 - afterdark in comparison to Catppuccin"
             }
           },
           {
@@ -48,9 +48,24 @@
               "icon": "lucide-file",
               "title": "202501231559 - afterdark in comparison to Catppuccin"
             }
+          },
+          {
+            "id": "9f3b60f67cdaa683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202501231559 - afterdark in comparison to Catppuccin"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,11 +236,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "862812550c765225",
+  "active": "9f3b60f67cdaa683",
   "lastOpenFiles": [
     "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
-    "Untitled.md",
     "03 - Fleeting/202501230914 - Kinetic particle model of matter.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
+    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
+    "04 - Bites/states of matter.md",
+    "Untitled.md",
     "00 - Projects/01 - afterdark",
     "04 - Bites/period.md",
     "99 - Meta/Attachments/Pasted image 20250123114259.png",
@@ -239,8 +257,6 @@
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123111315092.webp",
     "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
-    "04 - Bites/states of matter.md",
-    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123110156289.webp",
     "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
     "04 - Bites/mass.md",
@@ -255,7 +271,6 @@
     "04 - Bites/oscillation.md",
     "05 - Archives/202501221206 - Kinetic particle model of matter.md",
     "04 - Bites/matter.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
     "202501222225 -.md",
     "99 - Meta/Attachments/202501221038 - Exothermic and endothermic reactions-20250122110806615.webp",
     "99 - Meta/Excalidraw",
