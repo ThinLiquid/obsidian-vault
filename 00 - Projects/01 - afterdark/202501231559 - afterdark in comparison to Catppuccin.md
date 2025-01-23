@@ -1,0 +1,31 @@
+# afterdark in comparison to Catppuccin
+```json
+"mocha": {
+	"rosewater": "#e54f9b",
+	"flamingo": "#e54f9b",
+	"pink": "#e54f9b",
+	"mauve": "#a995ff",
+	"red": "#fc7f89",
+	"maroon": "#fc7f89",
+	"peach": "#ff9077",
+	"yellow": "#ffe8a1",
+	"green": "#52EEA3",
+	"teal": "#43CfEA",
+	"sky": "#43CfEA",
+	"sapphire": "#54b6f8",
+	"blue": "#5b8bf1",
+	"lavender": "#a995ff",
+	"text": "#CBCBCD",
+	"subtext1": "#828287",
+	"subtext0": "#6F6F71",
+	"overlay2": "#525252",
+	"overlay1": "#525252",
+	"overlay0": "#525252",
+	"surface2": "#292929",
+	"surface1": "#292929",
+	"surface0": "#141414",
+	"base": "#141414",
+	"mantle": "#141414",
+	"crust": "#141414"
+},
+```
