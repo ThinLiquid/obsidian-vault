@@ -36,3 +36,4 @@ The thermal capacity of a body is how much energy needs to be put in to raise it
 
 ![[202501230914 - Kinetic particle model of matter-20250123113435604.webp]]
 ![[Pasted image 20250123114259.png]]![[Pasted image 20250123115344.png]]
+![[202501230914 - Kinetic particle model of matter-20250123115958516.webp]]
