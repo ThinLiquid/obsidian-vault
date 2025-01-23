@@ -9,3 +9,5 @@
 | Nuclear energy store            | Energy stored in the nucleus of an atom and which can be released in nuclear reactions.                   | Nuclear power station and glowing stars.                                                       |
 | Electrostatic energy store      | Energy stored when like charges are moved closer or unlike charges are moved further apart.               | Thunderclouds, attraction of plastic covering to one's hand when it is removed from a package. |
 | Internal (thermal) energy store | Energy stored in the movement of particles of a material and how close the particles are to each other.   | A hot cup of coffee, fires and warm human bodies.                                              |
+## Formula
+$$E=Pt$$

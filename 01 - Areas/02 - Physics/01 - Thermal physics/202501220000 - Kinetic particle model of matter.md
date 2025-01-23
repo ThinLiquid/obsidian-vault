@@ -1,8 +1,6 @@
 # Kinetic particle model of matter
 ## States of matter
 See [[states of matter]].
-### What exactly is matter?
-See [[matter]].
 ## Brownian motion
 See [[Brownian motion]]
 ## Converting Celsius to Kelvin
