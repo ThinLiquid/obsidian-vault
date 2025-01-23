@@ -391,6 +391,8 @@ wwoJ
 wMs
 wkm
 wzA
+was
+whilst
 and
 an
 airplane
@@ -582,6 +584,9 @@ aiM
 apQjM
 aoA
 afterdark
+added
+area
+absorbs
 power
 planets
 position
@@ -1521,6 +1526,7 @@ DRJ
 DfT
 DPJ
 DcD
+Difference
 Kinetic
 Kelvin
 KwC
@@ -1879,6 +1885,8 @@ eZk
 eRJ
 eED
 efY
+electrons
+either
 in
 its
 is
@@ -2055,6 +2063,7 @@ inJ
 iYB
 itXh
 imG
+iron
 moving
 molecules
 muscles
@@ -2267,6 +2276,8 @@ moy
 mnn
 mOK
 mURm
+many
+moisture
 object
 objects
 orbiting
@@ -2451,6 +2462,11 @@ oTc
 ohQM
 oJL
 oJD
+occupied
+oxygen
+oxidation
+oxidized
+oxide
 Faster
 Find
 Falling
@@ -2640,6 +2656,7 @@ Fld
 FkmY
 Fso
 FIhft
+Finding
 have
 height
 higher
@@ -2976,6 +2993,10 @@ gUM
 gWU
 gssSk
 gufw
+gain
+gains
+gives
+give
 kinetic
 kilograms
 kg
@@ -3159,6 +3180,7 @@ kUw
 keo
 kZo
 kGx
+kept
 Runners
 Row
 Reaction
@@ -3387,6 +3409,8 @@ RJr
 RJa
 RSo
 Resources
+Removing
+Reactions
 cars
 cuckoo
 clock
@@ -3631,6 +3655,8 @@ cwvq
 cbB
 cSUt
 comparison
+copper
+changed
 the
 to
 tall
@@ -4193,6 +4219,7 @@ bjR
 bNB
 bbu
 bXs
+been
 due
 distance
 does
@@ -4384,6 +4411,7 @@ dEN
 dCDV
 dPpJ
 dOS
+describes
 The
 Thunderclouds
 Travelled
@@ -4602,6 +4630,7 @@ TuY
 TUU
 TrN
 TQQ
+Take
 Person
 Physical
 Particle
@@ -5193,6 +5222,7 @@ fsey
 fZp
 fAl
 fPo
+forms
 An
 At
 After
@@ -5546,6 +5576,9 @@ rhhhxxd
 riee
 rltlxd
 rqq
+reduction
+redox
+reduced
 up
 unlike
 usually
@@ -6049,6 +6082,8 @@ nsV
 nnT
 nß
 nIiY
+numbers
+number
 like
 line
 liquids
@@ -6221,6 +6256,9 @@ lMJ
 lov
 lnY
 loz
+look
+loss
+loses
 Internal
 If
 In
@@ -6576,6 +6614,7 @@ MKJ
 MBUu
 MRJ
 MVZG
+More
 When
 What
 Write
@@ -7604,6 +7643,7 @@ OjRz
 Olz
 OrdJ
 OJz
+Oxidation
 you
 your
 yZUd
@@ -8447,6 +8487,7 @@ zgR
 zxl
 zCv
 zcvF
+zinc
 Bold
 Blocks
 Be

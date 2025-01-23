@@ -1,5 +1,5 @@
 # Gravitational field strength
-> [!quote] **Gravitational field strength** ($g$) is defined as the gravitational force acting on an object per unit mass.
+> [!quote] **Gravitational field strength** ($g$) is defined as the gravitational force acting on an object per unit mass. 
 
 The formula for gravitational field strength is:
 $$g=\frac{W}{m}$$

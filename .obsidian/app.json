@@ -8,7 +8,7 @@
   "autoPairMarkdown": true,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

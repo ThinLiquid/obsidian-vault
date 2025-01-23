@@ -4,68 +4,112 @@
     "type": "split",
     "children": [
       {
-        "id": "ffdd882f7f1de925",
+        "id": "578943111367837d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ffdd882f7f1de925",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f3b60f67cdaa683",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 - Bites/00 - Formulas/Boyle's law.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Boyle's law"
+                },
+                "group": "878b2fe65e83c640"
+              }
+            ]
+          },
+          {
+            "id": "1803dfe4a6e792ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4128db919d75821",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 - Bites/00 - Formulas/Boyle's law.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Boyle's law"
+                },
+                "group": "878b2fe65e83c640"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "1a100e6dcff9e2cf",
         "type": "tabs",
         "children": [
           {
-            "id": "c34f2749b4bc71da",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "862812550c765225",
+            "id": "a7585341449d1b4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
+                "file": "05 - Archives/202501230914 - Kinetic particle model of matter.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202501231559 - afterdark in comparison to Catppuccin"
-            }
-          },
-          {
-            "id": "d4128db919d75821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202501231559 - afterdark in comparison to Catppuccin"
-            }
-          },
-          {
-            "id": "9f3b60f67cdaa683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Fleeting/202501230914 - Kinetic particle model of matter.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
               "title": "202501230914 - Kinetic particle model of matter"
             }
+          },
+          {
+            "id": "b79bd7f0c69e6834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Bites/00 - Formulas/Boyle's law.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Boyle's law"
+            }
+          },
+          {
+            "id": "64584ea5bfe27a3d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "21c1a58059826a81",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -118,10 +162,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "136ecc4ac9dd7174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34f2749b4bc71da",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 474.5
   },
   "right": {
     "id": "6eb15b0e5d98e2dd",
@@ -236,42 +298,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08b9f54174cf03fb",
+  "active": "5d4669a5803d0c8d",
   "lastOpenFiles": [
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501231754.excalidraw.md",
-    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
-    "03 - Fleeting/202501230914 - Kinetic particle model of matter.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
-    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
+    "04 - Bites/00 - Formulas/Boyle's law.md",
+    "04 - Bites/weight.md",
     "04 - Bites/states of matter.md",
+    "04 - Bites/Brownian motion.md",
+    "04 - Bites/acceleration.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
+    "04 - Bites/gravitational field strength.md",
+    "04 - Bites/distance-time graph.md",
+    "04 - Bites/deceleration.md",
+    "04 - Bites/principle of conservation of energy.md",
+    "04 - Bites/speed-time graph.md",
+    "04 - Bites/mass.md",
+    "04 - Bites/matter.md",
+    "04 - Bites/period.md",
+    "04 - Bites/oscillation.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
+    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
+    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
+    "99 - Meta/Excalidraw/202501231754 - Boyle's law graph.excalidraw.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
     "Untitled.md",
     "00 - Projects/01 - afterdark",
-    "04 - Bites/period.md",
     "99 - Meta/Attachments/Pasted image 20250123114259.png",
     "99 - Meta/Attachments/Pasted image 20250123115344.png",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
     "04 - Bites/00 - Formulas",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Physical quantities and measurement techniques.md",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123111315092.webp",
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123110156289.webp",
-    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
-    "04 - Bites/mass.md",
-    "04 - Bites/weight.md",
-    "04 - Bites/acceleration.md",
-    "04 - Bites/Brownian motion.md",
-    "04 - Bites/deceleration.md",
-    "04 - Bites/distance-time graph.md",
-    "04 - Bites/gravitational field strength.md",
-    "04 - Bites/speed-time graph.md",
-    "04 - Bites/principle of conservation of energy.md",
-    "04 - Bites/oscillation.md",
-    "05 - Archives/202501221206 - Kinetic particle model of matter.md",
-    "04 - Bites/matter.md",
     "99 - Meta/Attachments/202501221038 - Exothermic and endothermic reactions-20250122110806615.webp",
     "99 - Meta/Excalidraw",
     "Untitled.canvas",

@@ -8,4 +8,4 @@
 | Changing acceleration      | A curved graph.                       |
 | Constant deceleration      | Straight line of negative gradient.   |
 # Related
-[[acceleration]], [[deceleration]]
+[[acceleration]], [[deceleration]], [[distance-time graph]]
