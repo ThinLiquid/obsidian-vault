@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "04 - Bites/00 - Formulas/Boyle's law.md",
+                    "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Boyle's law"
+                  "title": "202501220000 - Kinetic particle model of matter"
                 },
                 "group": "878b2fe65e83c640"
               }
@@ -39,13 +39,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "04 - Bites/00 - Formulas/Boyle's law.md",
+                    "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Boyle's law"
+                  "title": "202501220000 - Kinetic particle model of matter"
                 },
                 "group": "878b2fe65e83c640"
               }
@@ -298,18 +298,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d4669a5803d0c8d",
+  "active": "9f3b60f67cdaa683",
   "lastOpenFiles": [
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "03 - Fleeting/202501232059 - How does desktop environments work on Linux.md",
+    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
+    "04 - Bites/Brownian motion.md",
+    "04 - Bites/deceleration.md",
+    "04 - Bites/acceleration.md",
+    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
     "04 - Bites/00 - Formulas/Boyle's law.md",
     "04 - Bites/weight.md",
     "04 - Bites/states of matter.md",
-    "04 - Bites/Brownian motion.md",
-    "04 - Bites/acceleration.md",
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
-    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
     "04 - Bites/gravitational field strength.md",
     "04 - Bites/distance-time graph.md",
-    "04 - Bites/deceleration.md",
     "04 - Bites/principle of conservation of energy.md",
     "04 - Bites/speed-time graph.md",
     "04 - Bites/mass.md",
@@ -319,7 +322,6 @@
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
     "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
     "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
-    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
     "99 - Meta/Excalidraw/202501231754 - Boyle's law graph.excalidraw.md",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
     "Untitled.md",
@@ -329,8 +331,6 @@
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
     "04 - Bites/00 - Formulas",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Physical quantities and measurement techniques.md",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123111315092.webp",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123110156289.webp",

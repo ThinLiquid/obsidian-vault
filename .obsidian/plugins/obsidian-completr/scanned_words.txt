@@ -4412,6 +4412,7 @@ dCDV
 dPpJ
 dOS
 describes
+desktop
 The
 Thunderclouds
 Travelled
@@ -5579,6 +5580,7 @@ rqq
 reduction
 redox
 reduced
+rendering
 up
 unlike
 usually
@@ -7487,6 +7489,7 @@ HNL
 HDS
 HDI
 HiA
+How
 On
 Objects
 Obsidian
@@ -8135,6 +8138,7 @@ LWU
 LNN
 LMMI
 LFyy
+Linux
 Your
 You
 Yd
