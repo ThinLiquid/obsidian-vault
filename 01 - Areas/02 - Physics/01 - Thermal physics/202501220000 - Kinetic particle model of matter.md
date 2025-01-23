@@ -20,3 +20,4 @@ P_1V_1&=P_2V_2\\
 V_2&=\frac{(8.0\times10^5)(5.0\times10^3)}{(1.0\times10^5)}\\
 V_2&=4.0\times10^4
 \end{align*}$$
+![[202501231754.excalidraw]]

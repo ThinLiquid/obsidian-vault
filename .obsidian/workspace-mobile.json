@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7b1e2592bbffe5ad",
+        "id": "25e2865a94e04fe7",
         "type": "tabs",
         "children": [
           {
-            "id": "b966189c5e594ecd",
+            "id": "40afd4840c5012d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501231754.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "202501220000 - Exothermic and endothermic reactions"
+              "icon": "excalidraw-icon",
+              "title": "202501231754.excalidraw"
             }
           }
         ]
@@ -177,8 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9c3463490db4520",
+  "active": "40afd4840c5012d3",
   "lastOpenFiles": [
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501231754.excalidraw.md",
+    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
     "00 - Projects",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123110156289.webp",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
@@ -217,14 +217,11 @@
     "/99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
     "/99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
     "/05 - Archives/202501221206 - Kinetic particle model of matter.md",
-    "/05 - Archives/202501221038 - Exothermic and endothermic reactions.md",
-    "/04 - Bites/weight.md",
     "/99 - Meta/Excalidraw",
     "/05 - Archives",
     "/04 - Bites",
     "/00 - Projects/01 - afterdark",
     "/00 - Projects",
-    "04 - Archives",
     "Untitled.canvas"
   ]
 }
