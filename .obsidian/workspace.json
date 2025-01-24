@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+                    "file": "05 - Archives/202501240915 - Number.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "202501220000 - Kinetic particle model of matter"
+                  "title": "202501240915 - Number"
                 },
                 "group": "878b2fe65e83c640"
               }
@@ -39,13 +39,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+                    "file": "05 - Archives/202501240915 - Number.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "202501220000 - Kinetic particle model of matter"
+                  "title": "202501240915 - Number"
                 },
                 "group": "878b2fe65e83c640"
               }
@@ -53,63 +53,6 @@
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "1a100e6dcff9e2cf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7585341449d1b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Archives/202501230914 - Kinetic particle model of matter.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202501230914 - Kinetic particle model of matter"
-            }
-          },
-          {
-            "id": "b79bd7f0c69e6834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Bites/00 - Formulas/Boyle's law.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Boyle's law"
-            }
-          },
-          {
-            "id": "64584ea5bfe27a3d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "21c1a58059826a81",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ],
-        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -121,6 +64,7 @@
       {
         "id": "7beeaac5abdef103",
         "type": "tabs",
+        "dimension": 69.60621186910704,
         "children": [
           {
             "id": "5d4669a5803d0c8d",
@@ -166,6 +110,7 @@
       {
         "id": "136ecc4ac9dd7174",
         "type": "tabs",
+        "dimension": 30.393788130892958,
         "children": [
           {
             "id": "c34f2749b4bc71da",
@@ -199,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/02 - Physics/01 - Thermal physics/Kinetic particle model of matter.md",
+                "file": "05 - Archives/202501240915 - Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kinetic particle model of matter"
+              "title": "Backlinks for 202501240915 - Number"
             }
           },
           {
@@ -218,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "05 - Archives/202501240915 - Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 202501240915 - Number"
             }
           },
           {
@@ -274,13 +219,35 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "94c3b2b9e18125f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8c1c6d28123d90e9",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 614.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,58 +262,59 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "9f3b60f67cdaa683",
+  "active": "5d4669a5803d0c8d",
   "lastOpenFiles": [
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
+    "Chats/New Chat.md",
+    "05 - Archives/202501241723 - Physics questions.md",
+    "04 - Bites/states of matter.md",
+    "Chats",
     "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
+    "05 - Archives/202501240915 - Number.md",
+    "99 - Meta/Attachments/202501240915 - Number-20250124095031563.webp",
+    "99 - Meta/Attachments/202501240915 - Number-20250124093951306.webp",
+    "99 - Meta/Attachments/202501240915 - Number-20250124093724018.webp",
+    "99 - Meta/Attachments/Pasted image 20250124092844.png",
+    "99 - Meta/Attachments/202501240915 - Number-20250124092401781.webp",
+    "02 - Resources/202501240904 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
+    "01 - Areas/04 - Mathematics/00 - Number",
+    "04 - Bites/00 - Formulas/gravitational field strength.md",
+    "02 - Resources/2025-01-24T090400+0100 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
+    "02 - Resources/2025-01-24T090133+0100 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
+    "02 - Resources/Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Physical quantities and measurement techniques.md",
+    "04 - Bites/00 - Formulas/Newton's laws of motion.md",
+    "Clippings/Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
+    "Clippings",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
+    "04 - Bites/acceleration.md",
+    "04 - Bites/00 - Formulas/Boyle's law.md",
+    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
     "03 - Fleeting/202501232059 - How does desktop environments work on Linux.md",
+    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
     "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
     "04 - Bites/Brownian motion.md",
     "04 - Bites/deceleration.md",
-    "04 - Bites/acceleration.md",
-    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
-    "04 - Bites/00 - Formulas/Boyle's law.md",
-    "04 - Bites/weight.md",
-    "04 - Bites/states of matter.md",
-    "04 - Bites/gravitational field strength.md",
-    "04 - Bites/distance-time graph.md",
-    "04 - Bites/principle of conservation of energy.md",
-    "04 - Bites/speed-time graph.md",
-    "04 - Bites/mass.md",
-    "04 - Bites/matter.md",
-    "04 - Bites/period.md",
-    "04 - Bites/oscillation.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
-    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
-    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
-    "99 - Meta/Excalidraw/202501231754 - Boyle's law graph.excalidraw.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
-    "Untitled.md",
     "00 - Projects/01 - afterdark",
     "99 - Meta/Attachments/Pasted image 20250123114259.png",
     "99 - Meta/Attachments/Pasted image 20250123115344.png",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
     "04 - Bites/00 - Formulas",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123111315092.webp",
-    "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123110156289.webp",
-    "99 - Meta/Attachments/202501221038 - Exothermic and endothermic reactions-20250122110806615.webp",
     "99 - Meta/Excalidraw",
     "Untitled.canvas",
     "Excalidraw",
-    "99 - Meta/Attachments/Distance-time graph.svg",
     "02 - Resources/202501221301 - Classtask.pdf",
-    "99 - Meta/Attachments/Speed-time graph.svg",
-    "99 - Meta/Attachments/Pasted image 20250122110519.webp",
     "00 - Projects/00 - aoiweb",
     "01 - Areas/01 - Chemistry/Key Terms",
-    "99 - Meta/Attachments",
-    "99 - Meta/Templates",
-    "99 - Meta",
     "Academic/Physics/Motion, Forces and Energy/Untitled.canvas",
     "Untitled 1.canvas"
   ]

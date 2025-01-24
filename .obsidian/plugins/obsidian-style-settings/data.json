@@ -54,5 +54,6 @@
   "id@@colorblind_tritan": false,
   "id@@h1-underline": false,
   "id@@h2-underline": false,
-  "id@@callout-on": true
+  "id@@callout-on": true,
+  "obsidian-dynamic-outline@@dynamic-outline-font-size": "var(--font-small)"
 }

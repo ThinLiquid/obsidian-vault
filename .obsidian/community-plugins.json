@@ -3,7 +3,6 @@
   "oz-image-plugin",
   "image-converter",
   "emoji-shortcodes",
-  "highlightr-plugin",
   "obsidian-excalidraw-plugin",
   "slash-commander",
   "obsidian-icon-folder",
@@ -13,5 +12,7 @@
   "obsidian-git",
   "settings-search",
   "obsidian-completr",
-  "dynamic-outline"
+  "dynamic-outline",
+  "list-style",
+  "smart-second-brain"
 ]

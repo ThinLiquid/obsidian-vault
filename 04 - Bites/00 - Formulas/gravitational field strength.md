@@ -3,7 +3,7 @@
 
 The formula for gravitational field strength is:
 $$g=\frac{W}{m}$$
-where $W$ is the weight of the object in newtons, and $m$ is the mass of the object in kilograms.
+where $W$ is the [[weight]] of the object in newtons, and $m$ is the [[mass]] of the object in kilograms.
 > [!info] The formula can be rearranged to find the weight of the object:
 > $W=m\times g$
 
