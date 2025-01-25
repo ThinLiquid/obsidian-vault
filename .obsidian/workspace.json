@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "05 - Archives/202501240915 - Number.md",
+                    "file": "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "202501240915 - Number"
+                  "title": "202501220000 - Mass and weight"
                 },
                 "group": "878b2fe65e83c640"
               }
@@ -39,13 +39,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "05 - Archives/202501240915 - Number.md",
+                    "file": "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "202501240915 - Number"
+                  "title": "202501220000 - Mass and weight"
                 },
                 "group": "878b2fe65e83c640"
               }
@@ -266,15 +266,16 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "5d4669a5803d0c8d",
+  "active": "9f3b60f67cdaa683",
   "lastOpenFiles": [
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
+    "05 - Archives/202501240915 - Number.md",
     "Chats/New Chat.md",
     "05 - Archives/202501241723 - Physics questions.md",
     "04 - Bites/states of matter.md",
     "Chats",
     "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
     "05 - Archives/202501230914 - Kinetic particle model of matter.md",
-    "05 - Archives/202501240915 - Number.md",
     "99 - Meta/Attachments/202501240915 - Number-20250124095031563.webp",
     "99 - Meta/Attachments/202501240915 - Number-20250124093951306.webp",
     "99 - Meta/Attachments/202501240915 - Number-20250124093724018.webp",
@@ -292,7 +293,6 @@
     "Clippings",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
     "04 - Bites/acceleration.md",
     "04 - Bites/00 - Formulas/Boyle's law.md",
