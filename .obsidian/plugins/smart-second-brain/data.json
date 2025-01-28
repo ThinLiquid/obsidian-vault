@@ -177,7 +177,7 @@
     "Chats",
     "*.excalidraw.md"
   ],
-  "isQuickSettingsOpen": false,
+  "isQuickSettingsOpen": true,
   "isVerbose": false,
   "isOnboarded": true,
   "hideIncognitoWarning": false,

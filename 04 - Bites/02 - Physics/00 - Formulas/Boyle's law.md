@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics
+---
 # Boyle's law
 **Boyle's law** is a law that states that pressure put on a gas of a given mass, kept at a constant temperature, is inversely proportional to the volume occupied by the gas.
 ![[202501231754 - Boyle's law graph.excalidraw]]

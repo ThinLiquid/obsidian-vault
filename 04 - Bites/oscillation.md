@@ -1,1 +1,5 @@
+---
+tags:
+  - Physics
+---
 An **oscillation** is the *repeated* movement of something between 2 points.

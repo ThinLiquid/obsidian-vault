@@ -4,55 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "578943111367837d",
-        "type": "split",
+        "id": "93bf122f70044c2f",
+        "type": "tabs",
         "children": [
           {
-            "id": "ffdd882f7f1de925",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9f3b60f67cdaa683",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "202501251438 - afterdark design philosophy.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "202501251438 - afterdark design philosophy"
-                },
-                "group": "878b2fe65e83c640"
-              }
-            ]
+            "id": "6fc06ebca9fc940d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202501220000 - Exothermic and endothermic reactions"
+            }
           },
           {
-            "id": "1803dfe4a6e792ae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d4128db919d75821",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "202501251438 - afterdark design philosophy.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "202501251438 - afterdark design philosophy"
-                },
-                "group": "878b2fe65e83c640"
-              }
-            ]
+            "id": "5a0166205908c7fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "99 - Meta/Excalidraw/202501220000 - Reaction pathway diagrams.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202501220000 - Reaction pathway diagrams.excalidraw"
+            }
+          },
+          {
+            "id": "312997e35ffbef06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202501281106 - Transfer of thermal energy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202501281106 - Transfer of thermal energy"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "specific heat capacity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "136ecc4ac9dd7174",
@@ -244,10 +243,26 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "7d159973ec5628f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a795679e7749e490",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 614.5
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,58 +278,59 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-git:Open Git source control": false,
-      "smart-second-brain:Open S2B Chat": false
+      "smart-second-brain:Open S2B Chat": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5d4669a5803d0c8d",
+  "active": "08b9f54174cf03fb",
   "lastOpenFiles": [
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
-    "202501251438 - afterdark design philosophy.md",
-    "00 - Projects/01 - afterdark/Untitled.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
-    "05 - Archives/202501240915 - Number.md",
-    "Chats/New Chat.md",
+    "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112731415.webp",
+    "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112718716.webp",
+    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
+    "202501281106 - Transfer of thermal energy.md",
     "05 - Archives/202501241723 - Physics questions.md",
     "04 - Bites/states of matter.md",
-    "Chats",
+    "04 - Bites/Brownian motion.md",
     "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
-    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
+    "01 - Areas/04 - Mathematics/00 - Number/202515251815 - Arithmetic.md",
+    "01 - Areas/04 - Mathematics/00 - Number/202539251839 - Negative numbers.md",
+    "01 - Areas/04 - Mathematics/00 - Number/types of numbers.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
+    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
+    "c202539280939 -.md",
+    "99 - Meta/Excalidraw/202501220000 - Reaction pathway diagrams.excalidraw.md",
+    "<.md",
+    "05 - Archives/202501240915 - Number.md",
+    "202501251438 - afterdark design philosophy.md",
+    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
+    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
+    "04 - Bites/matter.md",
+    "04 - Bites/deceleration.md",
+    "04 - Bites/acceleration.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
+    "202501251711 - Types of numbers.md",
+    "04 - Bites/02 - Physics",
+    "04 - Bites/01 - Mathematics",
+    "01 - Areas/00 - Sciences",
+    "Chats",
     "99 - Meta/Attachments/202501240915 - Number-20250124095031563.webp",
     "99 - Meta/Attachments/202501240915 - Number-20250124093951306.webp",
     "99 - Meta/Attachments/202501240915 - Number-20250124093724018.webp",
     "99 - Meta/Attachments/Pasted image 20250124092844.png",
     "99 - Meta/Attachments/202501240915 - Number-20250124092401781.webp",
-    "02 - Resources/202501240904 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
     "01 - Areas/04 - Mathematics/00 - Number",
-    "04 - Bites/00 - Formulas/gravitational field strength.md",
-    "02 - Resources/2025-01-24T090400+0100 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
-    "02 - Resources/2025-01-24T090133+0100 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
-    "02 - Resources/Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Physical quantities and measurement techniques.md",
-    "04 - Bites/00 - Formulas/Newton's laws of motion.md",
-    "Clippings/Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
     "Clippings",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
-    "04 - Bites/acceleration.md",
-    "04 - Bites/00 - Formulas/Boyle's law.md",
-    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
-    "03 - Fleeting/202501232059 - How does desktop environments work on Linux.md",
-    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
-    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
     "00 - Projects/01 - afterdark",
     "99 - Meta/Attachments/Pasted image 20250123114259.png",
     "99 - Meta/Attachments/Pasted image 20250123115344.png",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
-    "04 - Bites/00 - Formulas",
+    "04 - Bites/02 - Physics/00 - Formulas",
     "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
-    "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123111315092.webp",
     "99 - Meta/Excalidraw",
     "Untitled.canvas",
     "Excalidraw",
-    "02 - Resources/202501221301 - Classtask.pdf",
-    "00 - Projects/00 - aoiweb",
-    "01 - Areas/01 - Chemistry/Key Terms",
     "Academic/Physics/Motion, Forces and Energy/Untitled.canvas",
     "Untitled 1.canvas"
   ]

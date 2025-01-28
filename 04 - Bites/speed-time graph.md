@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics
+---
 # Speed-time graph
 ## Deducing motion from a speed-time graph
 | State of object            | Shape of speed-time graph             |
