@@ -4,19 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "25e2865a94e04fe7",
+        "id": "2c5756035dfb7e60",
         "type": "tabs",
         "children": [
           {
-            "id": "40afd4840c5012d3",
+            "id": "53e275c4ae94895f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202501291919 - Diseases and immunity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202501291919 - Diseases and immunity"
+            }
+          },
+          {
+            "id": "990a3c345452ac69",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "01 - Areas/02 - Physics/01 - Thermal physics/202501231754.excalidraw.md"
+                "file": "202501291951.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "202501231754.excalidraw"
+              "title": "202501291951.excalidraw"
             }
           }
         ]
@@ -161,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "zk-prefixer:Create new unique note": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
@@ -174,54 +190,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40afd4840c5012d3",
+  "active": "53e275c4ae94895f",
   "lastOpenFiles": [
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501231754.excalidraw.md",
-    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
-    "00 - Projects",
-    "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123110156289.webp",
-    "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
-    "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123111315092.webp",
-    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
-    "00 - Projects/01 - afterdark",
-    "99 - Meta/Excalidraw/202501221632 - Changing the state of matter.excalidraw.md",
-    "99 - Meta/Excalidraw/202501221659 - State of matter diagrams.excalidraw.md",
-    "99 - Meta/Excalidraw",
-    "03 - Fleeting/202501230914 - Kinetic particle model of matter.md",
-    "99 - Meta/Attachments/Pasted image 20250123114259.png",
-    "99 - Meta/Attachments/Pasted image 20250123115344.png",
-    "04 - Bites/Brownian motion.md",
-    "04 - Bites/mass.md",
-    "04 - Bites/oscillation.md",
-    "04 - Bites/matter.md",
-    "04 - Bites/distance-time graph.md",
-    "04 - Bites/deceleration.md",
-    "04 - Bites",
-    "05 - Archives/202501221038 - Exothermic and endothermic reactions.md",
-    "05 - Archives/202501221206 - Kinetic particle model of matter.md",
-    "05 - Archives",
-    "99 - Meta/Excalidraw/202501220000 - Reaction pathway diagrams.excalidraw.md",
-    "04 - Bites/acceleration.md",
-    "04 - Bites/period.md",
-    "04 - Bites/states of matter.md",
-    "04 - Bites/gravitational field strength.md",
-    "04 - Bites/speed-time graph.md",
-    "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
-    "04 - Bites/weight.md",
-    "04 - Bites/principle of conservation of energy.md",
-    "/04 - Bites/period.md",
-    "/04 - Bites/oscillation.md",
-    "/99 - Meta/Attachments/Pasted image 20250123115344.png",
-    "/99 - Meta/Attachments/Pasted image 20250123114259.png",
-    "/99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
-    "/99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
-    "/05 - Archives/202501221206 - Kinetic particle model of matter.md",
-    "/99 - Meta/Excalidraw",
-    "/05 - Archives",
-    "/04 - Bites",
-    "/00 - Projects/01 - afterdark",
-    "/00 - Projects",
+    "202501291951.excalidraw.md",
+    "202501291919 - Diseases and immunity.md",
+    "99 - Meta/Attachments/202501240915 - Number-20250124093724018.webp",
+    "99 - Meta/Attachments/202501240915 - Number-20250124092401781.webp",
+    "99 - Meta/Attachments/Pasted image 20250124092844.png",
+    "c202539280939 -.md",
+    "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112731415.webp",
+    "Backlog.md",
+    "202501281106 - Transfer of thermal energy.md",
+    "99 - Meta/Attachments/202501240915 - Number-20250124093951306.webp",
+    "202501251711 - Types of numbers.md",
+    "99 - Meta/Attachments/202501240915 - Number-20250124095031563.webp",
+    "05 - Archives/202501241723 - Physics questions.md",
+    "202501251438 - afterdark design philosophy.md",
+    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
+    "03 - Fleeting/202501232059 - How does desktop environments work on Linux.md",
+    "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112718716.webp",
+    "05 - Archives/202501240915 - Number.md",
+    "/05 - Archives/202501230914 - Kinetic particle model of matter.md",
+    "04 - Bites/02 - Physics",
+    "Chats/New Chat.md",
+    "Chats",
+    "04 - Bites/01 - Mathematics/decimal.md",
+    "04 - Bites/01 - Mathematics/fraction.md",
+    "04 - Bites/01 - Mathematics/integer.md",
+    "04 - Bites/01 - Mathematics",
+    "99 - Meta/Excalidraw/202501231754 - Boyle's law graph.excalidraw.md",
+    "01 - Areas/04 - Mathematics/00 - Number/types of numbers.md",
+    "01 - Areas/04 - Mathematics/00 - Number/202539251839 - Negative numbers.md",
+    "01 - Areas/04 - Mathematics/00 - Number/202515251815 - Arithmetic.md",
+    "01 - Areas/04 - Mathematics/00 - Number",
+    "01 - Areas/04 - Mathematics",
+    "02 - Resources/202501240904 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
+    "02 - Resources",
+    "04 - Bites/02 - Physics/00 - Formulas/gravitational field strength.md",
+    "04 - Bites/02 - Physics/00 - Formulas/Newton's laws of motion.md",
+    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
+    "04 - Bites/02 - Physics/00 - Formulas",
+    "/c202539280939 -.md",
+    "/Chats/New Chat.md",
+    "/99 - Meta/Attachments/Pasted image 20250124092844.png",
+    "/99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112731415.webp",
+    "/99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112718716.webp",
+    "/Chats",
+    "/04 - Bites/02 - Physics/00 - Formulas",
+    "/04 - Bites/02 - Physics",
     "Untitled.canvas"
   ]
 }

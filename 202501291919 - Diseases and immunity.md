@@ -8,6 +8,8 @@ There are many factors that can cause diseases. However, diseases that can be pa
 
 ==Transmissible diseases are caused by **pathogens**.== The organism that is infected by a pathogen is called a **host**. Other groups also include pathogens, such as fungi and bacteria. ==**Viruses** that cause diseases are also called pathogens, even though they aren't living organisms.== 
 ### Viruses
+Viruses are simple proteins which consist of an outer protein coat that protects the genetic material inside.
+![[202501291951.excalidraw]]
 
 ## Methods of transmisson
 ## Controlling the spread of disease
