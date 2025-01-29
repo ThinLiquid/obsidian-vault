@@ -35,5 +35,11 @@ There are many animals that can transfer pathogens from host to another, for exa
 ## Methods of disease
 ## The immune system and active immunity
 ## Questions
-**Define the term *transmissible disease*.**
-A transmissible disease is a disease caused by pathogens that attaches to any living organism.
+> [!question]- Define the term transmissible disease.
+> A transmissible disease is a disease caused by pathogens that attaches to any living organism.
+
+> [!question]- Give one example of a direct method of transmission of disease, and one example of an indirect method. In each case identify a disease transmitted between humans in this way
+> An example of a direct method of transmission of disease is sexual contact, in which, HIV is transmitted, and an example of an indirect method of transmission of disease is flu, which is transmitted through coughing or sneezing.
+
+> [!question]- Using a particular example, suggest one way to reduce the risk of transmission of a disease. Explain why your suggestion would work.
+> You can reduce the risk of transmitting a disease by wearing a face mask which traps the pathogens, stopping them from passing into the air.
