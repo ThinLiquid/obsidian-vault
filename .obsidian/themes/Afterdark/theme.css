@@ -40,7 +40,7 @@
   --interactive-accent: var(--color-green);
   --text-selection: hsla(240, 2%, 80%, 0.25);
   --checkbox-color-hover: var(--color-green);
-  --text-highlight-bg: rgba(var(--color-green-rgb), 0.5);
+  --text-highlight-bg: rgba(var(--color-green-rgb), 0.25);
   
   --text-on-accent: var(--color-base-00);
   
@@ -54,8 +54,6 @@
 .cm-strikethrough, strikethrough { color: var(--color-orange) }
 a.cm-underline, a { color: var(--color-green) }
 .cm-meta { background: rgba(var(--color-green-rgb), 0.2) }
-
-.cm-highlight { font-weight: bold }
 
 .callout {
   color: rgb(var(--callout-color));

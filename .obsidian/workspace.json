@@ -1,71 +1,42 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "829e4228155eef12",
     "type": "split",
     "children": [
       {
-        "id": "93bf122f70044c2f",
+        "id": "c45895ca2ab01061",
         "type": "tabs",
         "children": [
           {
-            "id": "6fc06ebca9fc940d",
+            "id": "58223d9447441845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
+                "file": "202501291919 - Diseases and immunity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202501220000 - Exothermic and endothermic reactions"
-            }
-          },
-          {
-            "id": "5a0166205908c7fe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "99 - Meta/Excalidraw/202501220000 - Reaction pathway diagrams.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202501220000 - Reaction pathway diagrams.excalidraw"
-            }
-          },
-          {
-            "id": "312997e35ffbef06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202501281106 - Transfer of thermal energy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202501281106 - Transfer of thermal energy"
+              "title": "202501291919 - Diseases and immunity"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1fa23c93fef3f121",
+    "id": "1de053b88be6a438",
     "type": "split",
     "children": [
       {
-        "id": "7beeaac5abdef103",
+        "id": "e4a209c7a4dc925d",
         "type": "tabs",
-        "dimension": 69.60621186910704,
         "children": [
           {
-            "id": "5d4669a5803d0c8d",
+            "id": "b7cd0041a2f14e75",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,12 +48,12 @@
             }
           },
           {
-            "id": "dd2d26c4be240688",
+            "id": "eefed7edff02fb60",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "specific heat capacity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "769296cb993d83f9",
+            "id": "95d0fe9727abfca3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -103,47 +74,26 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "136ecc4ac9dd7174",
-        "type": "tabs",
-        "dimension": 30.393788130892958,
-        "children": [
-          {
-            "id": "c34f2749b4bc71da",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 300
   },
   "right": {
-    "id": "6eb15b0e5d98e2dd",
+    "id": "6bd4549982c366d3",
     "type": "split",
     "children": [
       {
-        "id": "f97704eb5c85dfc2",
+        "id": "473ddc65156770ea",
         "type": "tabs",
         "children": [
           {
-            "id": "5573a2084cb7d1a1",
+            "id": "4b49b9f1560cb8e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Archives/202501240915 - Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202501240915 - Number"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "afd6f86187bc6374",
+            "id": "c76ee6e9498bc3e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Archives/202501240915 - Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 202501240915 - Number"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "246ac985f5e50aef",
+            "id": "3a8ccb7aa0889c61",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,19 +133,17 @@
             }
           },
           {
-            "id": "805f9d3f0a0e0745",
+            "id": "9caa5464715085f2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
-            "id": "021c24cfdec7accd",
+            "id": "246494c801357143",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -210,7 +157,7 @@
             }
           },
           {
-            "id": "08b9f54174cf03fb",
+            "id": "25fa2aa11bebf376",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -218,120 +165,80 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "94c3b2b9e18125f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8c1c6d28123d90e9",
-            "type": "leaf",
-            "state": {
-              "type": "chat-view",
-              "state": {
-                "file": "Chats/New Chat.md"
-              },
-              "icon": "message-square",
-              "title": "New Chat"
-            }
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "7d159973ec5628f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a795679e7749e490",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "zk-prefixer:Create new unique note": false,
-      "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
-      "obsidian-git:Open Git source control": false,
       "smart-second-brain:Open S2B Chat": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "08b9f54174cf03fb",
+  "active": "58223d9447441845",
   "lastOpenFiles": [
+    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
+    "202501291919 - Diseases and immunity.md",
+    "01 - Areas/00 - Biology/00 - Diseases and Immunity/Untitled.md",
+    "01 - Areas/00 - Biology/00 - Diseases and Immunity",
+    "01 - Areas/00 - Biology",
+    "Backlog.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "202501281106 - Transfer of thermal energy.md",
+    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
+    "05 - Archives/202501221038 - Exothermic and endothermic reactions.md",
+    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
+    "c202539280939 -.md",
+    "03 - Fleeting/202501232059 - How does desktop environments work on Linux.md",
+    "03 - Fleeting",
+    "02 - Resources/202501240904 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
+    "02 - Resources",
+    "01 - Areas/04 - Mathematics/00 - Number/types of numbers.md",
+    "01 - Areas/04 - Mathematics/00 - Number/202539251839 - Negative numbers.md",
+    "01 - Areas/04 - Mathematics/00 - Number/202515251815 - Arithmetic.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Physical quantities and measurement techniques.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
+    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
+    "01 - Areas/04 - Mathematics/00 - Number",
+    "01 - Areas/02 - Physics/01 - Thermal physics",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions",
+    "01 - Areas/01 - Chemistry/05 - Chemical energetics",
+    "01 - Areas/01 - Chemistry/00 - States of matter",
+    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
+    "Chats/New Chat.md",
+    "99 - Meta/Templates/(TEMPLATE) New note.md",
+    "99 - Meta/Attachments/Speed-time graph.svg",
+    "99 - Meta/Attachments/Pasted image 20250124092844.png",
+    "99 - Meta/Attachments/Pasted image 20250123115344.png",
+    "99 - Meta/Attachments/Pasted image 20250123114259.png",
+    "99 - Meta/Attachments/Pasted image 20250122110519.webp",
+    "99 - Meta/Attachments/Distance-time graph.svg",
     "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112731415.webp",
     "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112718716.webp",
-    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
-    "202501281106 - Transfer of thermal energy.md",
-    "05 - Archives/202501241723 - Physics questions.md",
-    "04 - Bites/states of matter.md",
-    "04 - Bites/Brownian motion.md",
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
-    "01 - Areas/04 - Mathematics/00 - Number/202515251815 - Arithmetic.md",
-    "01 - Areas/04 - Mathematics/00 - Number/202539251839 - Negative numbers.md",
-    "01 - Areas/04 - Mathematics/00 - Number/types of numbers.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
-    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
-    "c202539280939 -.md",
-    "99 - Meta/Excalidraw/202501220000 - Reaction pathway diagrams.excalidraw.md",
-    "<.md",
-    "05 - Archives/202501240915 - Number.md",
-    "202501251438 - afterdark design philosophy.md",
-    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
-    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
-    "04 - Bites/matter.md",
-    "04 - Bites/deceleration.md",
-    "04 - Bites/acceleration.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
-    "202501251711 - Types of numbers.md",
-    "04 - Bites/02 - Physics",
-    "04 - Bites/01 - Mathematics",
-    "01 - Areas/00 - Sciences",
-    "Chats",
     "99 - Meta/Attachments/202501240915 - Number-20250124095031563.webp",
-    "99 - Meta/Attachments/202501240915 - Number-20250124093951306.webp",
-    "99 - Meta/Attachments/202501240915 - Number-20250124093724018.webp",
-    "99 - Meta/Attachments/Pasted image 20250124092844.png",
-    "99 - Meta/Attachments/202501240915 - Number-20250124092401781.webp",
-    "01 - Areas/04 - Mathematics/00 - Number",
-    "Clippings",
-    "00 - Projects/01 - afterdark",
-    "99 - Meta/Attachments/Pasted image 20250123114259.png",
-    "99 - Meta/Attachments/Pasted image 20250123115344.png",
-    "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123115958516.webp",
-    "04 - Bites/02 - Physics/00 - Formulas",
-    "99 - Meta/Attachments/202501230914 - Kinetic particle model of matter-20250123113435604.webp",
-    "99 - Meta/Excalidraw",
-    "Untitled.canvas",
-    "Excalidraw",
-    "Academic/Physics/Motion, Forces and Energy/Untitled.canvas",
-    "Untitled 1.canvas"
+    "99 - Meta/Attachments/202501240915 - Number-20250124093951306.webp"
   ]
 }

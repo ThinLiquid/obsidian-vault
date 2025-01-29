@@ -617,6 +617,9 @@ alongside
 allows
 ability
 airflow
+another
+applies
+affect
 power
 planets
 position
@@ -1175,6 +1178,7 @@ subtext
 surds
 square
 simply
+starts
 Store
 Some
 Sun
@@ -2161,6 +2165,8 @@ inequality
 involving
 illustrated
 increasing
+ironing
+infared
 moving
 molecules
 muscles
@@ -2382,6 +2388,10 @@ minimum
 modals
 meaning
 make
+major
+mechanisms
+moment
+medium
 object
 objects
 orbiting
@@ -2947,6 +2957,10 @@ hex
 hsl
 hundredths
 humidity
+high
+heating
+hotter
+heated
 greater
 glowing
 graphs
@@ -3129,6 +3143,7 @@ gaining
 ground
 green
 gaseous
+goes
 kinetic
 kilograms
 kg
@@ -3553,6 +3568,7 @@ Radiuses
 Recurring
 Rational
 Raising
+Radiation
 cars
 cuckoo
 clock
@@ -3815,6 +3831,11 @@ continue
 cooling
 compared
 carry
+come
+contact
+clothes
+cloth
+colder
 the
 to
 tall
@@ -4029,6 +4050,7 @@ tenths
 table
 top
 transition
+through
 Gravitational
 Gases
 GV
@@ -4409,6 +4431,8 @@ blue
 begin
 behavior
 behind
+bottom
+become
 due
 distance
 does
@@ -4616,6 +4640,7 @@ decimal
 dish
 during
 dries
+doesn
 The
 Thunderclouds
 Travelled
@@ -4837,6 +4862,7 @@ TQQ
 Take
 Types
 Terminating
+Transfer
 Person
 Physical
 Particle
@@ -5210,6 +5236,9 @@ Chgk
 Catppuccin
 Calculate
 Colors
+Conduction
+Convection
+Color
 food
 further
 from
@@ -5439,6 +5468,8 @@ fractions
 fraction
 forever
 forming
+fluid
+fluids
 An
 At
 After
@@ -5819,6 +5850,9 @@ results
 rapidly
 reducing
 relative
+regions
+radiation
+require
 up
 unlike
 usually
@@ -6157,6 +6191,7 @@ Now
 Number
 Neue
 Negative
+Needs
 nucleus
 nuclear
 not
@@ -6514,6 +6549,7 @@ laws
 large
 lots
 leaving
+low
 Internal
 If
 In
@@ -7221,6 +7257,7 @@ vaporization
 vaporize
 velocity
 vapor
+via
 Using
 Unordered
 Use
@@ -7761,6 +7798,7 @@ HCF
 Haas
 Hass
 Helvetica
+Hot
 On
 Objects
 Obsidian
@@ -7919,6 +7957,7 @@ OrdJ
 OJz
 Oxidation
 Operations
+Only
 you
 your
 yZUd
