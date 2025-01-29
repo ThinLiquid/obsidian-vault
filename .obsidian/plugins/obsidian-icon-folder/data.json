@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
       "BoBxsArchive",
       "BoBxsCookie",
       "BoBxAtom",
-      "BoBxsFlask",
-      "BoBxFont"
+      "BoBxsFlask"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "02 - Resources": "BoBxsBook",
   "03 - Fleeting": "BoBxsPencil",
   "04 - Bites": "BoBxsCookie",
-  "05 - Archives": "BoBxsArchive"
+  "05 - Archives": "BoBxsArchive",
+  "Backlog.md": "LiListTodo"
 }
