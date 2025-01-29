@@ -9,12 +9,12 @@ There are many factors that can cause diseases. However, diseases that can be pa
 ==Transmissible diseases are caused by **pathogens**.== The organism that is infected by a pathogen is called a **host**. Other groups also include pathogens, such as fungi and bacteria. ==**Viruses** that cause diseases are also called pathogens, even though they aren't living organisms.== 
 ### Viruses
 Viruses are simple proteins which consist of an outer protein coat that protects the genetic material inside.
-![[202501291951.excalidraw]]
+![[202501291951 - Types of viruses.excalidraw]]iruses.excalidraw]]
 ## Methods of transmission
 ==Transmission is the process of passing a disease from one host to another== host (uninfected initially). Inside the new host the pathogen will reproduce, so that it can infect others.
 
 There are many ways pathogens can be transmitted:
-![[202501292038.excalidraw]]
+![[202501292038 - Methods of transmission of disease.excalidraw]] transmission of disease.excalidraw]]
 
 ### Direct contact
 ==Transmission through direct contact are usually transmitted by the transfer of bodily fluids== including: semen, blood, and other bodily fluids. Bodily fluids are usually exchanged during sexual contact or even through sneezing.

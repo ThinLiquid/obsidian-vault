@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202501291919 - Diseases and immunity.md",
+                "file": "Backlog.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202501291919 - Diseases and immunity"
+              "title": "Backlog"
             }
           }
         ]
@@ -173,29 +173,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "990a3c345452ac69",
   "lastOpenFiles": [
-    "202501291951.excalidraw.md",
-    "202501291919 - Diseases and immunity.md",
-    "202501292038.excalidraw.md",
+    "03 - Fleeting/202501281106 - Transfer of thermal energy.md",
+    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
+    "00 - Projects/01 - afterdark/202501251438 - afterdark design philosophy.md",
+    "05 - Archives/202501251711 - Types of numbers.md",
+    "01 - Areas/00 - Biology/10 - Diseases and immunity/202501291919 - Diseases and immunity.md",
+    "01 - Areas/00 - Biology/10 - Diseases and immunity",
+    "01 - Areas/00 - Biology",
+    "99 - Meta/Excalidraw/202501292038 - Methods of transmission of disease.excalidraw.md",
+    "99 - Meta/Excalidraw/202501291951 - Types of viruses.excalidraw.md",
+    "c202539280939 -.md",
     "/202501291919 - Diseases and immunity.md",
     "99 - Meta/Attachments/202501240915 - Number-20250124093724018.webp",
     "99 - Meta/Attachments/202501240915 - Number-20250124092401781.webp",
     "99 - Meta/Attachments/Pasted image 20250124092844.png",
-    "c202539280939 -.md",
     "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112731415.webp",
     "Backlog.md",
-    "202501281106 - Transfer of thermal energy.md",
     "99 - Meta/Attachments/202501240915 - Number-20250124093951306.webp",
-    "202501251711 - Types of numbers.md",
     "99 - Meta/Attachments/202501240915 - Number-20250124095031563.webp",
     "05 - Archives/202501241723 - Physics questions.md",
-    "202501251438 - afterdark design philosophy.md",
     "05 - Archives/202501230914 - Kinetic particle model of matter.md",
     "03 - Fleeting/202501232059 - How does desktop environments work on Linux.md",
     "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112718716.webp",
@@ -218,14 +220,11 @@
     "02 - Resources",
     "04 - Bites/02 - Physics/00 - Formulas/gravitational field strength.md",
     "04 - Bites/02 - Physics/00 - Formulas/Newton's laws of motion.md",
-    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
     "04 - Bites/02 - Physics/00 - Formulas",
     "/99 - Meta/Attachments/Pasted image 20250124092844.png",
     "/99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112731415.webp",
     "/99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112718716.webp",
     "/Chats",
-    "/04 - Bites/02 - Physics/00 - Formulas",
-    "/04 - Bites/02 - Physics",
     "Untitled.canvas"
   ]
 }
