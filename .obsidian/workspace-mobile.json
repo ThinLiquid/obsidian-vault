@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53e275c4ae94895f",
+            "id": "990a3c345452ac69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,22 +16,10 @@
                 "file": "202501291919 - Diseases and immunity.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "202501291919 - Diseases and immunity"
-            }
-          },
-          {
-            "id": "990a3c345452ac69",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "202501291951.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202501291951.excalidraw"
             }
           }
         ]
@@ -190,10 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53e275c4ae94895f",
+  "active": "990a3c345452ac69",
   "lastOpenFiles": [
     "202501291951.excalidraw.md",
     "202501291919 - Diseases and immunity.md",
+    "202501292038.excalidraw.md",
+    "/202501291919 - Diseases and immunity.md",
     "99 - Meta/Attachments/202501240915 - Number-20250124093724018.webp",
     "99 - Meta/Attachments/202501240915 - Number-20250124092401781.webp",
     "99 - Meta/Attachments/Pasted image 20250124092844.png",
@@ -230,8 +220,6 @@
     "04 - Bites/02 - Physics/00 - Formulas/Newton's laws of motion.md",
     "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
     "04 - Bites/02 - Physics/00 - Formulas",
-    "/c202539280939 -.md",
-    "/Chats/New Chat.md",
     "/99 - Meta/Attachments/Pasted image 20250124092844.png",
     "/99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112731415.webp",
     "/99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112718716.webp",
