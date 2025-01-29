@@ -11,10 +11,15 @@
             "id": "06f3fdecdca8e833",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Areas/00 - Biology/10 - Diseases and immunity/202501291919 - Diseases and immunity.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "202501291919 - Diseases and immunity"
             }
           }
         ]
