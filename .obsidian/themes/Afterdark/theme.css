@@ -74,4 +74,5 @@ a.cm-underline, a { color: var(--color-green) }
 .excalidraw-svg {
   display: flex;
   justify-content: center;
+  margin: 10px 0;
 }
