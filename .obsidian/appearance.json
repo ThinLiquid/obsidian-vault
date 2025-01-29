@@ -1,7 +1,7 @@
 {
-  "interfaceFontFamily": "Iosevka Nerd Font",
-  "monospaceFontFamily": "IosevkaTerm Nerd Font Mono",
-  "textFontFamily": "Alte Haas Grotesk",
+  "interfaceFontFamily": "Iosevka Nerd Font,Menlo",
+  "monospaceFontFamily": "IosevkaTerm Nerd Font Mono,Menlo",
+  "textFontFamily": "Alte Haas Grotesk,Helvetica",
   "nativeMenus": false,
   "accentColor": "",
   "baseFontSizeAction": false,

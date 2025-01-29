@@ -116,6 +116,7 @@
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
+  "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
@@ -786,7 +787,6 @@
     }
   ],
   "showSplashscreen": true,
-  "latexPreambleLocation": "preamble.sty",
   "pdfSettings": {
     "pageSize": "A4",
     "pageOrientation": "portrait",

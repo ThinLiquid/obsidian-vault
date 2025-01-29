@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a77998fa01d5df9c",
+        "id": "8d88a5b325a04e07",
         "type": "tabs",
         "children": [
           {
-            "id": "06f3fdecdca8e833",
+            "id": "aff11891c166f741",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,14 +178,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06f3fdecdca8e833",
+  "active": "aff11891c166f741",
   "lastOpenFiles": [
+    "01 - Areas/00 - Biology/10 - Diseases and immunity/202501291919 - Diseases and immunity.md",
     "Backlog.md",
     "03 - Fleeting/202501281106 - Transfer of thermal energy.md",
     "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
     "00 - Projects/01 - afterdark/202501251438 - afterdark design philosophy.md",
     "05 - Archives/202501251711 - Types of numbers.md",
-    "01 - Areas/00 - Biology/10 - Diseases and immunity/202501291919 - Diseases and immunity.md",
     "01 - Areas/00 - Biology/10 - Diseases and immunity",
     "01 - Areas/00 - Biology",
     "99 - Meta/Excalidraw/202501292038 - Methods of transmission of disease.excalidraw.md",
