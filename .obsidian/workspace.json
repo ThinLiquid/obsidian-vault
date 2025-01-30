@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c45895ca2ab01061",
+        "id": "e592068662e6b6c0",
         "type": "tabs",
         "children": [
           {
-            "id": "58223d9447441845",
+            "id": "a52088f15aac6326",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1f8d3f683a8ab861",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "202501292038.excalidraw.md"
+                "file": "04 - Bites/02 - Physics/00 - Formulas/Newton's laws of motion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "202501292038.excalidraw"
+              "icon": "lucide-file",
+              "title": "Newton's laws of motion"
+            }
+          },
+          {
+            "id": "9bdc18b6012f0221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Boyle's law"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,44 +220,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "58223d9447441845",
+  "active": "1f8d3f683a8ab861",
   "lastOpenFiles": [
+    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
+    "04 - Bites/02 - Physics/00 - Formulas/Newton's laws of motion.md",
+    "04 - Bites/02 - Physics/00 - Formulas/gravitational field strength.md",
+    "05 - Archives/202501240915 - Number.md",
+    "05 - Archives/202501241723 - Physics questions.md",
+    "05 - Archives/202501251711 - Types of numbers.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "01 - Areas/00 - Biology/09 - Diseases and immunity/202501291919 - Diseases and immunity.md",
+    "99 - Meta/Excalidraw/202501292038 - Methods of transmission of disease.excalidraw.md",
+    "99 - Meta/Excalidraw/202501291951 - Types of viruses.excalidraw.md",
+    "03 - Fleeting/202501281106 - Transfer of thermal energy.md",
+    "01 - Areas/00 - Biology/09 - Diseases and immunity",
+    "00 - Projects/01 - afterdark/202501251438 - afterdark design philosophy.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
+    "04 - Bites/acceleration.md",
+    "04 - Bites/speed-time graph.md",
+    "04 - Bites/states of matter.md",
+    "04 - Bites/weight.md",
+    "04 - Bites/Brownian motion.md",
+    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
     "202501292038.excalidraw.md",
     "202501291919 - Diseases and immunity.md",
     "202501291951.excalidraw.md",
-    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
     "01 - Areas/00 - Biology/00 - Diseases and Immunity/Untitled.md",
     "01 - Areas/00 - Biology/00 - Diseases and Immunity",
     "01 - Areas/00 - Biology",
     "Backlog.md",
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
     "202501281106 - Transfer of thermal energy.md",
-    "05 - Archives/202501230914 - Kinetic particle model of matter.md",
-    "05 - Archives/202501221038 - Exothermic and endothermic reactions.md",
-    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
-    "c202539280939 -.md",
-    "03 - Fleeting/202501232059 - How does desktop environments work on Linux.md",
     "03 - Fleeting",
-    "02 - Resources/202501240904 - Newton's First Law - Newton's Laws - National 5 Physics Revision - BBC Bitesize.md",
     "02 - Resources",
-    "01 - Areas/04 - Mathematics/00 - Number/types of numbers.md",
-    "01 - Areas/04 - Mathematics/00 - Number/202539251839 - Negative numbers.md",
-    "01 - Areas/04 - Mathematics/00 - Number/202515251815 - Arithmetic.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Physical quantities and measurement techniques.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
-    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
-    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
-    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
     "01 - Areas/04 - Mathematics/00 - Number",
     "01 - Areas/02 - Physics/01 - Thermal physics",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy",
     "01 - Areas/01 - Chemistry/06 - Chemical reactions",
     "01 - Areas/01 - Chemistry/05 - Chemical energetics",
-    "01 - Areas/01 - Chemistry/00 - States of matter",
-    "00 - Projects/01 - afterdark/202501231559 - afterdark in comparison to Catppuccin.md",
     "99 - Meta/Attachments/Speed-time graph.svg",
     "99 - Meta/Attachments/Pasted image 20250124092844.png",
     "99 - Meta/Attachments/Pasted image 20250123115344.png",
