@@ -1,4 +1,5 @@
-# Oxidation, reduction and redox
+# Redox reactions
+## Oxidation, reduction and redox
 When oxygen is added to an element or compound the process is called **oxidation**:
 $$\ce{2Cu(s) + O2(g) -> 2CuO(s)}$$
 The copper as been oxidized.
@@ -9,7 +10,7 @@ The copper(II) oxide has been reduced. If you look closer at this reaction, you'
 Reactions like this where there is a gain and a loss of oxygen are called **redox** reactions.
 > [!attention]
 > Oxidation is a loss of electrons, whereas reduction is a gain of electrons.
-## Oxidation numbers
+### Oxidation numbers
 Take for example the compound iron(II) oxide. The II is an oxidation number. $\ce{Fe^{2+}}$ has an oxidation number of $+2$ whereas $\ce{O^{2-}}$ has an oxidation state of $-2$.
 
 An oxidation number describes how many electrons an atom gains or loses when it forms a chemical bond.

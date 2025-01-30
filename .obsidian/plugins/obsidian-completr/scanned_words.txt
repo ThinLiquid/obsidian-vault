@@ -634,6 +634,7 @@ affected
 active
 attaches
 able
+aoiweb
 power
 planets
 position
@@ -903,6 +904,7 @@ protects
 passing
 particular
 past
+proxy
 stores
 store
 stored
@@ -1220,6 +1222,7 @@ suggest
 suggestion
 stopping
 spreads
+site
 Store
 Some
 Sun
@@ -2458,6 +2461,7 @@ malaria
 mosquitoes
 method
 mask
+margins
 object
 objects
 orbiting
@@ -2854,6 +2858,7 @@ Fig
 Factors
 Fonts
 Fractions
+Fix
 have
 height
 higher
@@ -3650,6 +3655,7 @@ Recurring
 Rational
 Raising
 Radiation
+Rate
 cars
 cuckoo
 clock
@@ -6006,6 +6012,7 @@ require
 reproduce
 reduce
 risk
+ripoff
 up
 unlike
 usually
@@ -7795,6 +7802,7 @@ JPJI
 JUE
 JKR
 JetBrains
+Jellyfin
 However
 Hand
 Heading
@@ -7966,6 +7974,7 @@ Helvetica
 Hot
 HIV
 Hepatitis
+Homelab
 On
 Objects
 Obsidian
@@ -9183,6 +9192,7 @@ Backgrounds
 Both
 Body
 Bodily
+Backlog
 Quotes
 QS
 QQ
