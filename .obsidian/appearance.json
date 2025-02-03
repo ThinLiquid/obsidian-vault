@@ -11,5 +11,6 @@
   "enabledCssSnippets": [
     "Colored Sidebar Items"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }

@@ -25,13 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
-                "mode": "source",
+                "file": "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "202501220000 - Rate of reaction"
+              "title": "202501220000 - Exothermic and endothermic reactions"
             }
           },
           {
@@ -69,7 +78,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -204,11 +214,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
-      "smart-second-brain:Open S2B Chat": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -216,23 +224,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1f8d3f683a8ab861",
   "lastOpenFiles": [
-    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
     "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
+    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
+    "202501302221 - General properties of waves.md",
+    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
+    "01 - Areas/02 - Physics/02 - Waves/Untitled.md",
+    "01 - Areas/02 - Physics/02 - Waves",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
+    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
+    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
+    "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
     "01 - Areas/00 - Biology/09 - Diseases and immunity/202501291919 - Diseases and immunity.md",
     "Backlog.md",
+    "202501301039 - Rate of reaction.md",
     "04 - Bites/02 - Physics/00 - Formulas/Newton's laws of motion.md",
     "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
     "04 - Bites/02 - Physics/00 - Formulas/gravitational field strength.md",
     "05 - Archives/202501240915 - Number.md",
     "05 - Archives/202501241723 - Physics questions.md",
     "05 - Archives/202501251711 - Types of numbers.md",
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
     "99 - Meta/Excalidraw/202501292038 - Methods of transmission of disease.excalidraw.md",
     "99 - Meta/Excalidraw/202501291951 - Types of viruses.excalidraw.md",
     "03 - Fleeting/202501281106 - Transfer of thermal energy.md",
@@ -240,24 +257,14 @@
     "00 - Projects/01 - afterdark/202501251438 - afterdark design philosophy.md",
     "04 - Bites/acceleration.md",
     "04 - Bites/speed-time graph.md",
-    "04 - Bites/states of matter.md",
-    "04 - Bites/weight.md",
-    "04 - Bites/Brownian motion.md",
-    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
-    "202501292038.excalidraw.md",
-    "202501291919 - Diseases and immunity.md",
-    "202501291951.excalidraw.md",
-    "01 - Areas/00 - Biology/00 - Diseases and Immunity/Untitled.md",
     "01 - Areas/00 - Biology/00 - Diseases and Immunity",
     "01 - Areas/00 - Biology",
-    "202501281106 - Transfer of thermal energy.md",
     "03 - Fleeting",
     "02 - Resources",
     "01 - Areas/04 - Mathematics/00 - Number",
     "01 - Areas/02 - Physics/01 - Thermal physics",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy",
     "01 - Areas/01 - Chemistry/06 - Chemical reactions",
-    "01 - Areas/01 - Chemistry/05 - Chemical energetics",
     "99 - Meta/Attachments/Speed-time graph.svg",
     "99 - Meta/Attachments/Pasted image 20250124092844.png",
     "99 - Meta/Attachments/Pasted image 20250123115344.png",
