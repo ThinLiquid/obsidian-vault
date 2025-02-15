@@ -193,6 +193,7 @@ Enhancing
 EmTHo
 Each
 End
+Examination
 work
 when
 which
@@ -1232,6 +1233,7 @@ substances
 shown
 salt
 significant
+style
 Store
 Some
 Sun
@@ -2041,6 +2043,8 @@ exerted
 even
 exchanged
 easier
+exercise
+exact
 in
 its
 is
@@ -3245,6 +3249,7 @@ groups
 genetic
 gained
 goal
+giving
 kinetic
 kilograms
 kg
@@ -3961,6 +3966,7 @@ crude
 composition
 conserved
 cooking
+calculator
 the
 to
 tall
@@ -6387,6 +6393,7 @@ Number
 Neue
 Negative
 Needs
+Non
 nucleus
 nuclear
 not
@@ -7282,6 +7289,7 @@ WbL
 Wfc
 WVVNNO
 WJp
+Work
 value
 visualized
 values
