@@ -46,6 +46,9 @@
   
   --code-radius: 0;
   --callout-radius: 0;
+
+  --code-border-width: 1px;
+  --code-border-color: var(--color-base-30);
 }
 
 .cm-strong, strong { color: var(--color-green) }
@@ -75,4 +78,63 @@ a.cm-underline, a { color: var(--color-green) }
   display: flex;
   justify-content: center;
   margin: 10px 0;
+}
+
+*[data-callout="box"], *[data-callout="wrong"], *[data-callout="correct"], *[data-callout="mark"] {
+  border: var(--code-border-width) solid var(--code-border-color);
+}
+
+*[data-callout="box"] .admonition-title {
+  display: none;
+}
+*[data-callout="box"] .admonition-content {
+  margin-bottom: 0!important;
+  scrollbar-width: none!important;
+
+  p:nth-of-type(1) {
+    padding-top: 0;
+    margin-top: 0;
+    
+  }
+}
+
+*[data-callout="wrong"] {
+  --code-border-color: var(--color-red);
+  color: var(--color-red);
+  background: rgba(var(--color-red-rgb), 0.03);
+}
+
+*[data-callout="correct"], *[data-callout="mark"] {
+  --code-border-color: var(--color-green);
+  color: var(--color-green);
+  background: rgba(var(--color-green-rgb), 0.03);
+  
+
+  & > * {
+    filter: blur(5px);
+    transition: filter 0.5s;
+  }
+
+  &:hover > * {
+    filter: blur(0px);
+  }
+}
+
+
+*[data-callout="mark"] {
+  --code-border-color: var(--color-blue);
+  color: var(--color-blue);
+  background: rgba(var(--color-blue-rgb), 0.03);
+} 
+
+code {
+  border: 1px solid var(--color-base-30);
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
 }

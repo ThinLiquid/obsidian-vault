@@ -20,13 +20,25 @@
             }
           },
           {
-            "id": "9bdc18b6012f0221",
+            "id": "f613805327950adf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "b7684b56b2df6741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
-                "mode": "preview",
+                "file": "01 - Areas/04 - Mathematics/07 - Probability/202502242222 - Basic Probability.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -40,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boyle's law"
+              "title": "202502242222 - Basic Probability"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,27 +211,53 @@
   "left-ribbon": {
     "hiddenItems": {
       "zk-prefixer:Create new unique note": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "open-vscode:VSCode": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "open-vscode:VSCode": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a52088f15aac6326",
+  "active": "b7684b56b2df6741",
   "lastOpenFiles": [
+    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
+    "01 - Areas/05 - Computer Science/00 - Data Representation/202502241754 - Text, Sound & Images.md",
+    "01 - Areas/05 - Computer Science/00 - Data Representation",
+    "01 - Areas/04 - Mathematics/07 - Probability/202502242222 - Basic Probability.md",
+    "01 - Areas/04 - Mathematics/03 - Geometry/202502242155 - Geometry Toolkit.md",
+    "01 - Areas/04 - Mathematics/01 - Algebra & Sequences/202502241930 - Algebra Toolkit.md",
+    "01 - Areas/04 - Mathematics/03 - Geometry",
+    "01 - Areas/04 - Mathematics/07 - Probability",
+    "01 - Areas/04 - Mathematics/01 - Algebra & Sequences",
+    "01 - Areas/05 - Computer Science",
+    "99 - Meta/Attachments/202502242222 - Basic Probability-1740434937433.png",
+    "202502242222 - Basic Probability.md",
+    "99 - Meta/Attachments/image.png",
+    "202502251059 - Sound.md",
+    "Untitled.canvas",
+    "image.png",
+    "202502241930 - Algebra Toolkit.md",
+    "202502241906 - Number Systems.md",
+    "202502242155 - Geometry Toolkit.md",
+    "99 - Meta/Attachments/image-1.png",
+    "01 - Areas/04 - Mathematics/Speed-time graph.svg",
+    "202502241754 - Text, Sound & Images.md",
+    "202502241754 - Text, sound and image.md",
+    "202502241753 - Data representation.md",
+    "03 - Fleeting/202502241621 - How to \"grow\" a button collection.md",
+    "202502241621 - How to \"grow\" a button collection.md",
+    "03 - Fleeting/202502130000 - Why I uninstalled Arch Linux.md",
+    "202502162156 - Surds.md",
     "01 - Areas/04 - Mathematics/Questions/Examination-style exercise 1 - Number 1.md",
     "99 - Meta/Excalidraw/202502151031 - Solved question.excalidraw.md",
     "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Rate of reaction.md",
-    "04 - Bites/02 - Physics/00 - Formulas/Boyle's law.md",
     "99 - Meta/Excalidraw/202501292038 - Methods of transmission of disease.excalidraw.md",
     "Why I uninstalled Arch Linux.md",
     "01 - Areas/04 - Mathematics/Questions",
@@ -226,40 +265,14 @@
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
     "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Density.md",
     "01 - Areas/01 - Chemistry/00 - States of matter/202501220000 - Solids, liquids and gases.md",
-    "01 - Areas/00 - Biology/09 - Diseases and immunity/202501291919 - Diseases and immunity.md",
-    "202501301039 - Rate of reaction.md",
-    "202501302221 - General properties of waves.md",
-    "202502031216 - Rate of reaction.md",
-    "202502091735 - Newtons laws.md",
-    "01 - Areas/04 - Mathematics/00 - Number/types of numbers.md",
-    "01 - Areas/04 - Mathematics/00 - Number/202539251839 - Negative numbers.md",
     "99 - Meta/Attachments/202501302221 - General properties of waves-20250204105111093.webp",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Motion.md",
-    "01 - Areas/04 - Mathematics/00 - Number/202515251815 - Arithmetic.md",
-    "01 - Areas/01 - Chemistry/05 - Chemical energetics/202501220000 - Exothermic and endothermic reactions.md",
-    "01 - Areas/02 - Physics/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
-    "01 - Areas/02 - Physics/02 - Waves/Untitled.md",
     "01 - Areas/02 - Physics/02 - Waves",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy/202501220000 - Energy, work and power.md",
-    "01 - Areas/01 - Chemistry/06 - Chemical reactions/202501220000 - Redox reactions.md",
-    "Backlog.md",
-    "04 - Bites/02 - Physics/00 - Formulas/Newton's laws of motion.md",
     "01 - Areas/00 - Biology/09 - Diseases and immunity",
     "01 - Areas/00 - Biology/00 - Diseases and Immunity",
     "01 - Areas/00 - Biology",
-    "03 - Fleeting",
-    "02 - Resources",
-    "01 - Areas/04 - Mathematics/00 - Number",
-    "01 - Areas/02 - Physics/01 - Thermal physics",
-    "01 - Areas/02 - Physics/00 - Motion, Forces and Energy",
     "99 - Meta/Attachments/Speed-time graph.svg",
     "99 - Meta/Attachments/Pasted image 20250124092844.png",
     "99 - Meta/Attachments/Pasted image 20250123115344.png",
-    "99 - Meta/Attachments/Pasted image 20250123114259.png",
-    "99 - Meta/Attachments/Pasted image 20250122110519.webp",
-    "99 - Meta/Attachments/Distance-time graph.svg",
-    "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112731415.webp",
-    "99 - Meta/Attachments/202501281106 - Transfer of thermal energy-20250128112718716.webp",
-    "99 - Meta/Attachments/202501240915 - Number-20250124095031563.webp"
+    "99 - Meta/Attachments/Pasted image 20250123114259.png"
   ]
 }

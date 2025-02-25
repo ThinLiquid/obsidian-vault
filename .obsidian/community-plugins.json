@@ -10,11 +10,13 @@
   "open-vscode",
   "obsidian-git",
   "settings-search",
-  "dynamic-outline",
   "list-style",
   "css-inlay-colors",
   "table-extended",
   "obsidian-full-calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-completr"
+  "obsidian-html-tags-autocomplete",
+  "various-complements",
+  "custom-classes",
+  "obsidian-admonition"
 ]

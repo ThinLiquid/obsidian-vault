@@ -7,7 +7,7 @@
   "rightToLeft": false,
   "autoPairMarkdown": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "defaultViewMode": "preview",
   "pdfExportSettings": {
     "includeName": true,

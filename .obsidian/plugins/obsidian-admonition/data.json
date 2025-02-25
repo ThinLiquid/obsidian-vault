@@ -1,0 +1,74 @@
+{
+  "userAdmonitions": {
+    "box": {
+      "type": "box",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "barcode",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "content",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "wrong": {
+      "type": "wrong",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "lucide-x",
+        "type": "obsidian"
+      },
+      "command": true,
+      "title": "incorrect answer",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "correct": {
+      "type": "correct",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "lucide-check",
+        "type": "obsidian"
+      },
+      "command": true,
+      "title": "correct answer",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "mark": {
+      "type": "mark",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "lucide-book-lock",
+        "type": "obsidian"
+      },
+      "command": true,
+      "title": "mark scheme",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": false,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.5a9c95"
+}
