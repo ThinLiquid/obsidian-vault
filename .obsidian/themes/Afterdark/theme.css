@@ -51,6 +51,10 @@
   --code-border-color: var(--color-base-30);
 }
 
+:root {
+  interpolate-size: allow-keywords;
+}
+
 .cm-strong, strong { color: var(--color-green) }
 .cm-em, em { color: var(--color-cyan) }
 .cm-strong.cm-em, strong em { color: var(--color-blue) }
@@ -60,15 +64,16 @@ a.cm-underline, a { color: var(--color-green) }
 
 .callout {
   color: rgb(var(--callout-color));
-  padding: 16px 24px;
+  padding: 16px;
   border: 1px solid rgba(var(--callout-color), 0.25);
   border-left: 5px solid rgb(var(--callout-color));
   
   .callout-content > p {
-    margin: 0;
-    margin-top: 12px;
-    padding-top: 12px;
-    border-top: 1px solid rgb(var(--callout-color), 0.5);
+    margin-bottom: 0;
+  }
+  
+  .callout-content {
+    margin: 0!important;
   }
   
   .callout-title { gap: 8px; }
@@ -80,39 +85,34 @@ a.cm-underline, a { color: var(--color-green) }
   margin: 10px 0;
 }
 
-*[data-callout="box"], *[data-callout="wrong"], *[data-callout="correct"], *[data-callout="mark"] {
+*[data-callout], .math-block > mjx-container {
   border: var(--code-border-width) solid var(--code-border-color);
 }
 
-*[data-callout="box"] .admonition-title {
-  display: none;
-}
-*[data-callout="box"] .admonition-content {
-  margin-bottom: 0!important;
-  scrollbar-width: none!important;
-
-  p:nth-of-type(1) {
-    padding-top: 0;
-    margin-top: 0;
-    
-  }
+.math-block > mjx-container {
+  padding: 16px;
 }
 
 *[data-callout="wrong"] {
-  --code-border-color: var(--color-red);
-  color: var(--color-red);
-  background: rgba(var(--color-red-rgb), 0.03);
+  --callout-title-color: var(--color-red);
+}
+
+*[data-callout="mark"] {
+  --callout-title-color: var(--color-blue);
+}
+
+*[data-callout="correct"] {
+  --callout-title-color: var(--color-green);
+}
+
+*[data-callout="partial"] {
+  --callout-title-color: var(--color-orange);
 }
 
 *[data-callout="correct"], *[data-callout="mark"] {
-  --code-border-color: var(--color-green);
-  color: var(--color-green);
-  background: rgba(var(--color-green-rgb), 0.03);
-  
-
-  & > * {
-    filter: blur(5px);
-    transition: filter 0.5s;
+  & > *:not(.callout-title) {
+    filter: blur(10px);
+    transition: filter 2s;
   }
 
   &:hover > * {
@@ -120,19 +120,12 @@ a.cm-underline, a { color: var(--color-green) }
   }
 }
 
-
-*[data-callout="mark"] {
-  --code-border-color: var(--color-blue);
-  color: var(--color-blue);
-  background: rgba(var(--color-blue-rgb), 0.03);
-} 
+.callout-icon .svg-icon {
+  color: var(--callout-title-color);
+}
 
 code {
   border: 1px solid var(--color-base-30);
-}
-
-.left {
-  text-align: left;
 }
 
 .right {

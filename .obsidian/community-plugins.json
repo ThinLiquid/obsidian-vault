@@ -17,6 +17,9 @@
   "obsidian-excalidraw-plugin",
   "obsidian-html-tags-autocomplete",
   "various-complements",
+  "obsidian-admonition",
   "custom-classes",
-  "obsidian-admonition"
+  "obsidian-linter",
+  "obsidian-latex-suite",
+  "tldraw"
 ]

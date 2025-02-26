@@ -22,7 +22,7 @@ Brownian motion is the random movement of particles in liquids or gases due to c
 
 The higher the temperature the greater the kinetic energy and the faster the speed of the molecules.
 ## Celsius to Kelvin
-Absolute temperature is temperature measured using the Kelvin scale where zero is *actually* absolute zero.
+Absolute temperature is temperature measured using the Kelvin scale where zero is _actually_ absolute zero.
 $$\text{kelvin}=\text{celcius}+273.15$$
 ## Boyle's law
 $$\begin{align*}V&\propto\frac{1}{P}\\ V&=\frac{k}{P}\\ k&=PV\end{align*}$$

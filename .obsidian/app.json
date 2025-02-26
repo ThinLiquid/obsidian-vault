@@ -1,13 +1,13 @@
 {
   "attachmentFolderPath": "./",
   "vimMode": false,
-  "livePreview": true,
+  "livePreview": false,
   "tabSize": 4,
   "showLineNumber": false,
   "rightToLeft": false,
   "autoPairMarkdown": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "defaultViewMode": "preview",
   "pdfExportSettings": {
     "includeName": true,

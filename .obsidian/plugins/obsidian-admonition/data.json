@@ -7,7 +7,7 @@
         "name": "barcode",
         "type": "font-awesome"
       },
-      "command": true,
+      "command": false,
       "title": "content",
       "injectColor": true,
       "noTitle": false,
@@ -20,10 +20,11 @@
         "name": "lucide-x",
         "type": "obsidian"
       },
-      "command": true,
-      "title": "incorrect answer",
+      "command": false,
+      "title": "unsuccessful attempt",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "correct": {
       "type": "correct",
@@ -32,10 +33,11 @@
         "name": "lucide-check",
         "type": "obsidian"
       },
-      "command": true,
-      "title": "correct answer",
+      "command": false,
+      "title": "successful attempt",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "mark": {
       "type": "mark",
@@ -44,8 +46,33 @@
         "name": "lucide-book-lock",
         "type": "obsidian"
       },
-      "command": true,
+      "command": false,
       "title": "mark scheme",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "partial": {
+      "type": "partial",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "lucide-wrench",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "partially correct",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "define": {
+      "type": "define",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "lucide-book-a",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "definition",
       "injectColor": true,
       "noTitle": false
     }
