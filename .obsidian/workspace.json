@@ -10,6 +10,7 @@
           {
             "id": "e592068662e6b6c0",
             "type": "tabs",
+            "dimension": 48.333333333333336,
             "children": [
               {
                 "id": "a52088f15aac6326",
@@ -77,7 +78,40 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01 - Areas/05 - Computer Science/00 - Questions/01 - Data Transmission/202502252307 - Encryption.md",
+                    "file": "202502271117 - Electrical Quantities.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "202502271117 - Electrical Quantities"
+                },
+                "group": "a891fdc46a0c9781"
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "187da6334bd21090",
+            "type": "tabs",
+            "dimension": 51.66666666666667,
+            "children": [
+              {
+                "id": "158e05bde0255d95",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "202502271117 - Electrical Quantities.md",
                     "mode": "source",
                     "source": true,
                     "backlinks": true,
@@ -92,39 +126,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "202502252307 - Encryption"
-                },
-                "group": "a891fdc46a0c9781"
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "187da6334bd21090",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "158e05bde0255d95",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 - Areas/05 - Computer Science/00 - Questions/01 - Data Transmission/202502252307 - Encryption.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "202502252307 - Encryption"
+                  "title": "202502271117 - Electrical Quantities"
                 },
                 "group": "a891fdc46a0c9781"
               }
@@ -248,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Areas/05 - Computer Science/00 - Questions/01 - Data Transmission/202502252307 - Encryption.md",
+                "file": "202502271117 - Electrical Quantities.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202502252307 - Encryption"
+              "title": "Outline of 202502271117 - Electrical Quantities"
             }
           },
           {
@@ -306,13 +308,35 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "b7cd0041a2f14e75",
+  "active": "25fa2aa11bebf376",
   "lastOpenFiles": [
+    "Backlog.md",
+    "202502271117 - Electrical Quantities.md",
+    "202502261208 - Magnetism.md",
+    "202502271102 - e.md",
+    "01 - Areas/04 - Mathematics/00 - Questions/07 - Probability/202502242222 - Basic Probability.md",
+    "01 - Areas/04 - Mathematics/00 - Questions/07 - Probability/202502252028 - Conditional Probability.md",
     "01 - Areas/05 - Computer Science/00 - Questions/01 - Data Transmission/202502261446 - Types & Methods of Data Transmission.md",
     "01 - Areas/05 - Computer Science/00 - Questions/01 - Data Transmission/202502252307 - Encryption.md",
     "202502252110 - Rounding, Estimation & Bounds.md",
-    "202502251059 - Sound.md",
     "202502261038 - Acids, Bases & Salts.md",
+    "202502251059 - Sound.md",
+    "99 - Meta/Excalidraw/202502151031 - Solved question.excalidraw.md",
+    "99 - Meta/Excalidraw/202501292038 - Methods of transmission of disease.excalidraw.md",
+    "99 - Meta/Excalidraw/202501291951 - Types of viruses.excalidraw.md",
+    "99 - Meta/Excalidraw/202501231754 - Boyle's law graph.excalidraw.md",
+    "99 - Meta/Excalidraw/202501221632 - Changing the state of matter.excalidraw.md",
+    "99 - Meta/Excalidraw/202501220000 - Reaction pathway diagrams.excalidraw.md",
+    "99 - Meta/Attachments/202502242222 - Basic Probability-1740434937433.png",
+    "99 - Meta/Attachments/202502242222 - Basic Probability-1740518285074.png",
+    "99 - Meta/Attachments/202502242222 - Basic Probability-1740518419799.png",
+    "99 - Meta/Attachments/202502261208 - Magnetism-1740569171128.png",
+    "99 - Meta/Attachments/Distance-time graph.svg",
+    "99 - Meta/Attachments/image.png",
+    "99 - Meta/Attachments/Pasted image 20250122110519.webp",
+    "99 - Meta/Attachments/Pasted image 20250123114259.png",
+    "99 - Meta/Attachments/Pasted image 20250123115344.png",
+    "99 - Meta/Attachments/Pasted image 20250124092844.png",
     "01 - Areas/02 - Physics/01 - Notes/01 - Thermal physics/202501220000 - Kinetic particle model of matter.md",
     "01 - Areas/02 - Physics/01 - Notes/00 - Motion, Forces and Energy/202501220000 - Mass and weight.md",
     "01 - Areas/02 - Physics/01 - Notes/00 - Motion, Forces and Energy/202501220000 - Mass, Weight & Density.md",
@@ -322,38 +346,16 @@
     "04 - Bites/weight.md",
     "04 - Bites/mass.md",
     "05 - Archives/202501221038 - Exothermic and endothermic reactions.md",
-    "03 - Fleeting/202502241621 - How to \"grow\" a button collection.md",
-    "03 - Fleeting/202502130000 - Why I uninstalled Arch Linux.md",
-    "03 - Fleeting/202501281106 - Transfer of thermal energy.md",
-    "03 - Fleeting/202501232059 - How does desktop environments work on Linux.md",
     "01 - Areas/02 - Physics/00 - Questions",
     "01 - Areas/02 - Physics/01 - Notes",
     "01 - Areas/05 - Computer Science/01 - Notes",
     "01 - Areas/04 - Mathematics/01 - Notes",
     "01 - Areas/04 - Mathematics/00 - Questions",
     "01 - Areas/05 - Computer Science/00 - Questions",
-    "01 - Areas/05 - Computer Science/00 - Questions/05 - Automated & Emerging Technologies/202502261505 - Robotics.md",
     "01 - Areas/05 - Computer Science/00 - Questions/05 - Automated & Emerging Technologies",
     "01 - Areas/05 - Computer Science/00 - Questions/03 - Software",
     "01 - Areas/05 - Computer Science/00 - Questions/04 - The Internet & the World Wide Web",
-    "01 - Areas/05 - Computer Science/00 - Questions/04 - The Internet & the World Wide Web/202502261506 - Digital Currency.md",
-    "01 - Areas/05 - Computer Science/00 - Questions/02 - Hardware/202502252235 - Computer Architecture.md",
-    "202502261208 - Magnetism.md",
-    "01 - Areas/05 - Computer Science/00 - Questions/03 - Software/202502261452 - Types of Software & Interrupts.md",
-    "01 - Areas/05 - Computer Science/00 - Questions/00 - Data Representation/202502241754 - Text, Sound & Images.md",
-    "99 - Meta/Attachments/202502261208 - Magnetism-1740569171128.png",
-    "20250226.md",
     "Untitled.canvas",
-    "01 - Areas/05 - Computer Science/00 - Questions/02 - Hardware/202502252259 - Network Hardware.md",
-    "01 - Areas/05 - Computer Science/00 - Questions/07 - Programming",
-    "99 - Meta/Attachments/202502242222 - Basic Probability-1740518419799.png",
-    "99 - Meta/Attachments/202502242222 - Basic Probability-1740518285074.png",
-    "01 - Areas/04 - Mathematics/Speed-time graph.svg",
-    "99 - Meta/Attachments/202502242222 - Basic Probability-1740434937433.png",
-    "99 - Meta/Attachments/image.png",
-    "image.png",
-    "99 - Meta/Attachments/image-1.png",
-    "99 - Meta/Attachments/202501302221 - General properties of waves-20250204105111093.webp",
-    "99 - Meta/Attachments/Speed-time graph.svg"
+    "01 - Areas/05 - Computer Science/00 - Questions/07 - Programming"
   ]
 }

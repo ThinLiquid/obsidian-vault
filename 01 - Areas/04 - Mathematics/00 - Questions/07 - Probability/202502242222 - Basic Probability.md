@@ -1,5 +1,29 @@
 # Basic Probability
 ## Questions
+### Calculator Questions
+#### Easy
+##### Q1 _(2 marks)_ **★**
+The probability that a sweet made in a factory is the wrong shape is 0.0028.  
+One day, the factory makes 25 000 sweets.
+
+Calculate the number of sweets that are expected to be the wrong shape.
+```ad-correct
+$$25000(0.0028)=70$$
+```
+##### Q2 _(2 marks)_
+The probability that Kim wins a game is 0.72 .  
+In one year Kim will play 225 games.
+
+Work out an estimate of the number of games Kim will win.
+```ad-correct
+$$225(0.72)=162$$
+```
+##### Q3 _(1 mark)_
+Sushila, has a bag which contains 10 red balls and 8 blue balls. Sushila takes one ball at random from her bag.  
+
+Find the probability that she takes a red ball.
+```
+```
 ### Non-Calculator Questions
 #### Easy
 ##### Q1 _(1 mark)_ **★**
@@ -282,3 +306,13 @@ Work out an estimate for the number of times that Dan will get an L.
 $$300\times\dfrac{16}{80}=300\times\dfrac{1}{5}=60$$
 ```
 #### Hard
+##### Q1 _(2 marks)_
+Bill has some counters in a bag.
+
+$3$ of the counters are red. $7$ of the counters are blue. The rest of the counters are yellow.
+
+Bill takes at random a counter from the bag.
+
+The probability that he takes a yellow counter is $\dfrac{2}{7}$
+
+How many yellow counters are in the bag before Bill takes a counter?
